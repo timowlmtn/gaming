@@ -1,0 +1,112 @@
+Background
+When the Temple of Elemental Evil was built, this keep arose at the point where their evil influence reached the farthest west. It was a great deal of work because the area was wet and unstable. The builders had to drain the surrounding lands and dig down to the limestone to build a foundation (once they did, they allowed the water to return, channeling it into a moat around the fortress). The construction crews complained and whined, "Why here?"
+
+The reason is that this fortress is over the site of an ancient shrine to Tharizdun. In time-lost days, clerics of the Dark God erected a great obelisk within a natural cave to commune with their deity. Then, when Tharizdun was imprisoned, they sealed the cave and diverted a minor underground stream so that even if the top of the shaft leading down to the cave were discovered, it would appear to be a pool.
+
+Here are the rooms of the Moathouse Dungeon.
+
+21. Prison (EL 3)
+Littered with bones, broken stonework, and bits of rusty meat,l this area appears to have once been the real crux of the dungeon. Cell doors-some hanging open, some closed- line the west wall. Wide pillars stretch from floor to ceiling, with manacles dangling from them. Finally, you see a small wooden door in the north portion of the room and an archway in the eastern wall.
+
+A foul smell hangs in the air here.
+
+Creatures: A ghast hides behind one of the pillars (Hide - DC 10), waiting to leap out and attack as soon as possible. The stench of the undead horror might tip off wary adventurers, but most likely, they'll think it's just the dungeon's smell. Spawned by the utter corruption inherent in the obelisk's power (see area 32C), this creature obeys all commands from
+the clerics of the Elder Elemental Eye, recognizing the authority within them. It, in turn, commands any ghouls found in the dungeon.
+
+Ghast: hp 25; see MonsterManual page 97.
+Treasure: The cells hold nothing, and the debris on the floor is pretty old.
+
+22. Torture Chamber (EL 3)
+You see ruined devices of torture: a rack, an iron maiden, a brazier surrounded by discarded irons. The whole place is covered in cobwebs and dust.
+
+Inside a pillar is a well-hidden secret shaft (Search DC 25. The passage drops some 30 feet and has iron rungs set into the stonework for easy descent (Climb DC 0). Finally, a narrow tunnel leads to a hidden entrance into area 33.
+
+Creatures: Three ghouls wait for the ghast's orders. They move to attack if they hear sounds of combat or the horrid shriek of the ghast from area 21. Otherwise, they attack any living creature in the room other than a cleric of the Elder Elemental Eye.
+
+Ghouls (3): hp 10, 13, 14; see Monster Manual page 97.
+Treasure: One of the ghouls wears a gold ring worth 25 gp.
+
+23. Empty room
+Debris and trash cover this room as well. There's nothing else here besides a wooden door on the east.
+
+A successful Search (DC 18) reveals a path through the debris made by recent traffic.
+
+24. Excavated Relics (EL 4)
+This large room is mostly empty. In fact, it appears to have been swept clean. Some strange items lie on a white blanket spread out on the floor. Not far away, a lantern rests on the floor, lighting the room. The single door is on the south wall near where you came in.
+
+Creatures: Gren, a cleric of the Elder Elemental Eye, waits here with two black-capped gnoll bodyguards. Her job is to watch over this collection of relics uncovered in the cavern below (see area 32). The importance of these objects has impressed her, and she has sworn to defend them with her life if need be.
+
+Gren: Female human Clr2; hp 18; see Appendix .3
+Gnolls (2): hp 10, 12; 2d10 gp; see Monster Manual page 105.
+
+Tactics: Gren's most likely first move is to open the door
+into area 25 and command the skeletons there to attack. Although she fights to the death, the gnolls are not beyond trying to use the secret door to escape if events turn sour for them.
+
+Treasure: Laid out carefully on the white blanket are the following items:
+
+• An iron torch and three black cones. • A black scepter with violet gems.
+• A small black sphere.
+• A black metal tube.
+
+The torch is a torch of revealing, and the cones are its fuel(see Appendix 1.) The scepter is nonmagical but is worth 1,000 gp. The sphere is a bead of force. The tube holds a worm-ridden scroll covered with unfamiliar writing, and only comprehended languages spell can decipher it. The scroll provides information for accessing an extraplanar node of utter darkness called the BlackCyst. This ritual requires multiple wish spells,
+living sacrifices, other grisly components, and years of work.
+
+This foreshadows what the PCs find in Chapter 6: The Inner and Outer Fanes.
+
+25. Skeletons! (EL 3)
+Beyond the heavy oak door lies a smaller chamber containing little other than dust and cobwebs. The north wall bears a scrawled carving in Common: "Death to all ogres."
+
+Creatures: The skeletons of six humans and a single massive ogre await the commands of the clerics who animated them. They attack anyone not wearing the triangle symbol of the Elder Elemental Eye. The human skeletons are still wearing tattered leather armor -- one also sports an old black cloak with a flaming eye symbol.
+
+Medium-Size Skeletons (6): hp 4, 5, 6, 6, 9, 10; see Monster Manual page 165.
+Ogre Skeleton: hp 22; see Monster Manual page 165.
+
+26. Portcullis
+An iron portcullis sits flush with the ceiling in the middle of this northwest-southeast hallway. Anyone rolling a successful Search (DC 20) finds it. When it drops, a character standing under the portcullis (see area 27) must succeed at a Reflex save (DC 15) or take 4d6 points of piercing damage. Then, the character is pinned and must make a successful Escape Artist or Strength check (DC 27) to get free.
+Portcullis: 2 inches thick; hardness 10; hp 60; AC 4; lift DC 27.
+
+26A. Secret Winch
+A winch behind the secret door raises the portcullis once dropped (see area 27).
+
+27. Trap (EL 1)
+The middle of the three doors here are false and cause the portcullis in area 26 to fall if opened. All the current inhabitants know about this trap and the winch in 26A that raises the portcullis. In fact, if they know powerful intruders are on their way, they trigger the trap intentionally.
+
+Portcullis Trap: CR 1; no attack roll required (drops portcullis in area 26); Search (DC 20); Disable Device (DC 20).
+
+28. Gnoll Lair (EL 5)
+This strangely shaped room has six very old-looking beds made of wood and padded with mattresses of straw. Clothes, armor pieces, and weapons lie on the floor, mixed with bones, fruit rinds, and other waste. It has the smell of wet fur.
+
+Creatures: Six gnolls rest here. Whether asleep or relaxing, they could be more attentive. Assume that the gnolls suffer a 1-0 penalty on Listen to checks for their intention. For example, if t h e PCs talk and make a lot of noise in the middle of area 27, just to the south, the DC for the Listen check would be 5 (0 bases, +5 for distance). Since gnolls have to Listen +3, they would get a result of 3(average roll of 10-10+3), which would not be enough to detect the party's approach.
+
+If surprised, three gnolls are asleep and not wearing armor (and are AC 11). Therefore, they are not ready to fight in the first round of combat.T h e other three are armored and attempt to fight off intruders while their companions awaken.
+Gnolls (6): hp 9,10, 11, 11, 12, 14; 2d10 gp; see Monster Manual page 105.
+
+29. Gnoll Leader (EL 3)
+Odd in shape, this chamber's walls are stained and scored with signs of fire long ago. A wooden bed with a mattress of straw is against the western side, and a small iron box sits next to it. On top of the box are a pipe, some tobacco, a whetstone, and a stoneware cup full of dark liquid.
+
+The liquid in the cup is rancid, cold coffee. Inside the box, which is not locked, are a few bits of clothing and some per- sonal gear (nothing of value). Tucked in the northernmost portion of the room is a black cloak with a flaming eye symbol, somewhat dirty but otherwise in good shape.
+
+Creatures: The leader of the gnolls dwells here, a ranger whose favored enemy is humans. This gnoll is without fear. He is willing to take on an entire group of foes, although he gladly accepts the aid of his troops (see area 28) or the clerics, should it come.
+
+Garrik: Gnoll Rg2r; hp 28; es Appendix 3.
+
+Development: If the gnoll leader learns that intruders are in the moathouse, he joins the gnollsinarea28 and moves to defend the clerics. If the clerics leave, he and the remaining gnolls go with them.
+
+30. Clerics' Quarters (EL 2)
+Six old wooden beds with straw mattresses are arranged haphazardly in this room. Each has a bag or satchel of a different sort next to it, and a small iron box rests upon one bed. A stand with a blazer, currently unlit, and another with a lantern, also dark, ear against the middle portions of the east and west walls.
+
+This is the room where the clerics have been staying during their excavation.
+
+Trap: The box is locked (Open Lock DC 20) and trapped with an aglyph of warding activated when it is opened without saying "Praise the Elder Elemental Eye." The cleric Geynor Ton (see area 32A) has the key.
+Glyph of Warding: CR2; 5-ft. acid spray (3d8); Reflex save DC 15 half; Disable Device(DC28).
+
+Treasure: The box contains potions to light cure wounds and water breathing, scrolls of animal messenger and stone shape, six tinder twigs, and a curved ceremonial dagger with gold inlay (worth 50 gp). In addition, a sheaf of papers lies within that serves as Geynor Ton's personal journal. When the PCs discover this, show them Handout 1: Journal of Geynor Ton. Feel free to photocopy this sheet ahead of time.
+
+Development: If the clerics leave, they take everything with them but the beds-a n d those they push into area 29.
+
+31. Ambush (EL 3)
+The stairs here fall into darkness, from which a foul stench arises.
+
+Creatures: A ghast waits to ambush on the stairs. Spawned by the utter corruption inherent in the obelisk's power (see area 32C, this creature obeys all clerics of the Elder Elemental Eye.
+
+Ghast: hp 30; see Monster Manual page 97. Development: Theclericsi n area 32C hear the sounds of combat here (unless the silence spell covers the battle or the PCs; otherwise, deal with the ghast quietly) and arrive to help in 2 rounds.

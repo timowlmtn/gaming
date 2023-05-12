@@ -1,0 +1,208 @@
+32. Excavation Site
+This complex area requires understanding the side view diagram (Map 5).
+
+32A. Old Well Room (EL 4)
+This place is freezing, and even the most insensitive can tell that the unnatural chill is corruption in the air. A wide pit in the center dominates the room, its sides slick with moisture. A pulley has been affixed to the ceiling, and a rope descends from it, connected to four more. These, in turn, are tied to the edge of a 10-foot-wide wooden platform, circular in shape, in four different places to provide stability. A lantern sitting atop a stool in the southwestern corner illuminates the chamber. Scattered about the pit edge are picks and shovels, and a strange statue rest in the corner farthest from the entrance. Against the north wall stands a large, round, flat stone about the pit's diameter.
+
+The platform, rope, and pulley all look new.
+
+Creatures: Two clerics work in this room studying the statue brought up recently from below. One is a human, Gaynor Ton. The other is a troglodyte named Ysslansh.
+
+Ysslansh is the leader of the clerics stationed at the moathouse now that Festrath (see area 32E) has become irretrievably insane. The troglodyte is ruthless and utterly evil.   All the human clerics hate him.
+
+ The clerics take the statue with them when they leave and abandon the wooden platform (but not the rope), which they stand on end against the north wall.
+Geynor Ton: Male human Clr2; hp 16; see Appendix 3
+Ysslansh: Mael troglodyte Cl2; hp 28; see Appendix 3 32C. Ancient Obelisk (EL 5)
+Tactics: If the clerics hear a fight with the ghast in area31,
+Use this description as the PCs descend the shaft.
+They move to investigate, arriving in 2 rounds.
+
+Statue: This rectangular block is 3 feet high and 2 feet on each side. Each side has a distinct figure carved into it.
+
+The first is jet black and depicts a muscular man in full plate with unfamiliar flanges and fluting. He wears a cape and holds a wavy-bladed sword. It appears very smooth and black, with veins of deep violet.
+
+The second side is dark green, carved into a man swathed in
+a flowing robe with long sleeves and a high collar.   The face is a mask resembling the one that the dead Master Thaque
+possessed (see area 6).
+
+The third side is a deep blood red and depicts A man in high boots, a doublet, and gauntlets of twisting design. A hood drawn tight around the face covers his head.
+
+The fourth side is a statue of a man colored deep indigo. The Egure is clothed in a many-pleated robe with a sash covered in strange sigils (impossible to decipher). His head is cowled and cradled a scepter in his folded arms.
+
+32B. shaft
+Roughly 15 feet from the top of the shaft, indications exist that a stone plug was once placed here, then carefully mortared and sealed. Just above that point, a 4- foot-wide tunnel carrying underground stream empties into the shaft, the water spilling into the darkness below. A 2-foot-wide opening is visible just below the top of the pit.
+
+Once the seal was intact, the water filled the shaft to the top and formed a pool. Then, excess water drained out and into a pipe that returned it to the underground stream.
+
+The water poured down beside the descending platform.
+
+Platform: Someone within reach of the shaft or dais can raise or lower the platform. At a point, as a full-round action, the operator can tie off the top to the contraption so that it no longer moves down. Then, using the pulley, a character can lift or lower twice the amount he or she could typically drag. Six Medium-size characters also fit on the platform; ten can crowd aboard if necessary. Unfortunately, the rope-and-platform assembly breaks if more than 2,000 pounds are placed on it.
+
+If the rope is released, the platform falls along with everything on it. Characters aboard the platform can attempt Reflex saves (DC 20) to grab the rope. If successful, the character must succeed at a Strength check (DC 15, +1/100 pounds of load) to stop the platform. Failure, in addition to the typical damage from falling, inflicts severe rope burn. That deals 1 point of subdual damage.
+
+Characters taking violent or reckless actions on the platform must succeed at a Balance check (DC 13) to stay on. Those who fall can attempt to grab hold of the edge by taking Reflex saves (DC 20).
+
+Development: If the clerics can leave, they reseal the shaft. They insert the round, flat stone about 15 feet down, then use the potion of water breathing and the scroll of some shape (both in the iron box in area 30) to seal it. The shaft fills with water again, forming a pool, and the room returns to "normal."
+
+The whole area below the shaft is unholy due to an unhallow spell. The site has permanent protection from good effect, and the unholy aura confers a 4- profane penalty on turn undead attempts (+4 to rebuke undead). The ancient unhallow spell no longer has any other effects attached to it.
+
+The unnatural cold intensifies as depth increases: By the time characters descend to the "floor" (which, in fact, is the top of the obelisk), it is so cold that they risk hypothermia. They must make Fortitude saves (DC 15, 1+ for every previous check) every 10 minutes or suffer 1d6
+points of subdual damage.
+
+Characters wearing warm winter clothing need only make checks once per hour. A character rendered unconscious then takes typical damage from the cold. Those who take any subdual damage from the cold become fatigued, suffering a 2- penalty to Strength and Dexterity, and cannot run or charge. Subdual damage and fatigue penalties disappear when the character is removed from the cold.
+
+Once the characters reach the top of the obelisk, use the following descriptive text:
+
+The floor resembles black marble but has no luster, while the veins of purple are thick and jagged. The entire surface is slightly convex, with sides lower than the center. Stranger still, the floor does not extend to the cave walls around it as though it were merely a large platform. Instead, it is about 30 feet across--the cave is much larger than that in every direction. Beyond the floor edge, the cave walls plummet farther into darkness. Finally, at the western rim of the black floor, another circular wooden platform hangs suspended over the void, with another rope and pulley system pounded into the rock above it.
+
+Obelisk (EL 3): The obelisk is dangerous to touch. It feels exceedingly cold, and as soon as a living being contacts it, the veins need to writhe like tentacles and move toward that figure, even while wearing boots or gloves. After one round, the veins reach the character, who must succeed in a fortitude save (DC 22) or suffer 1d6 points of temporary Strength damage. The player must make a save every round as he continues to touch the obelisk. Victims who lose all their Strength are pulled down into the obelisk by the veins, their souls forever destroyed.
+
+As the clerics discovered, lowering oneself down by the first platform is possible, scurrying quickly across the top of the obelisk and getting to the other platform without any adverse effects.
+
+Creature (EL 4): Hiding in the dark roof of the cave is a well, a horrible creature resembling a floating brain with tentacles. It was summoned earlier by the cleric Festrath using an extraplanar archway (area 32G). The Grell quietly lowers himself over a party, descending to the bottom of the cave, and attacks a single, random foe. It can attack with only one tentacle in the first round because it cannot both move and make a full attack. However, if it can paralyze and grab hold of the victim with two tentacles, it flies away with its prey the next round.
+
+Grell. Hp 23 of 32; wounded (see Appendix 1.)
+
+Ad Hoc XP Adjustment: Due to the problematic situation provided (a hidden and ready opponent versus unprepared PCs), this encounter should award 120% of the standard XP.
+
+32D. Obex
+The stone is worked and smooth on what appears to be the bottom of the colossal cavern. Two symbols are carved into the floor on the western side of the cave. A two-tiered, inverted ziggurat, black in color, and a flaming sun, also jet black. Rising from the middle of the cave, a pillar supports the black-and-violet mass of the enormous obelisk on whose surface you recently stood. On the north side of the cave, water spilling from above collects in a pool.
+
+The upside-down pyramid is a symbol of Tharizdun, called an Obex. Standing on the Obex is safe (although it creates an unsettling feeling in any creature that does not worship the Dark God) unless the character speaks the name of Tharizdun. If this happens, he is instantly reduced to -1 hp (no save) and rendered unconscious and dying (Heal DC 21 to stabilize).
+
+While unconscious, the character has an evil vision: a man formed of darkness that is hazy and insubstantial.
+
+In each round in which the character is not stabilized, he loses one additional hit point while seeing and experiencing something new:
+
+Finds a curved +1 dagger at his feet, engraved with his name.
+If he says anything else, or nothing at all, he continues to lose hit points.
+
+6- hp: The dark form says, "Do you seek to free me?"
+7- hp: If the character says "Yes," he is restored to total hit points and consciousness. If he says anything else, or noth-
+ing at all, he continues to lose hit points.
+-8 hp: The dark form says, "It does not matter what you seek. I am. You are nothing."
+-9 hp: The dark form says, "You serve me now, whether you wish it or not." The character is restored to total hit points and consciousness but is cursed y the Dark God. He now suffers a -2 penalty on saving throws to resist spells cast by clerics of Tharizdun or the Elder Elemental Eye.
+
+This curse cannot be removed with anything less than a wish or miracle.
+
+32E. Black Sun (EL 5)
+This symbol seems an evil perversion of some otherwise good sign of light and life.
+
+The strange inverted black triangle radiates insanity and mental disharmony. Even those nearby or looking at it from afar are disturbed and
+on edge. Anyone standing within its circle for more than 1 round must succeed at a Wisdom saving throw (DC 15) or suffer
+1d6 points of temporary Wisdom damage. The character must make a save every turn she continues to touch the symbol. Creatures: Festrath, a cleric of Tharizdun who is now completely insane, is hidden among the rocks at the cavern's edge near the black sun. When Master Thaque was killed by the dragon (see area 6), Festrath was next in the chain ofcom- mand. However, he was already close to madness from spending time in the chamber and foolishly experimenting with the black sun. He has since lost what remained of his mind; although being wrapped in a winter cloak, he has managed to stave off the effects of the cold for the most part. (His statistics have already been modified to reflect subdual damage and fatigue penalties.)
+
+From his vantage point, the mad Festrath watches what the party does, waiting for an opportune time to attack. He fears the Grell and avoids letting the creature know where he is. (Festrathwas attacked by the Grell when he summoned it, wounding it and driving it off temporarily so that he could hide.) Once he has committed to the attack, he does
+not hesitate to use his potion of fly to get at enemies on a plat-
+form or the Pillar, or just to attack from above. He laughs and howls, all the while maniacally.
+
+Festrath carries a piece of paper that bears this message: "The Water Temple will soon make its move against the forces of fire. Return quickly, Festrath, for we need your aid. Together, we shall win the favor of the doom-dreamers and the Triad itself."
+
+• Festrath: Male human Clr5; hp42 of 32; wounded; see Appendix .3
+
+32F. Pillar
+Impossible though it seems, the colossal obelisk comes to a very narrow point balanced atop this 30-foot high Pillar. The Pillar has been carved from the rock itself and appears to be quite solid. Iron rungs, primarily free of corrosion, have been hammered into it, allowing anyone to 2 7 climbs to the point where Pillar meets the obelisk.
+
+The pinpoint tip of the obelisk, if viewed in the light of a torch of revealing (see Appendix 1), is actually a purple-colored gem of unknown make. Touching the amethyst teleports a character (and all her gear, but not the torch) into a spherical room of black walls with purple veins. No light is present, but even characters without darkvision find that they can "see" within the darkness here. Immediately upon arrival, the character hears a voice boom in a low, hollow voice: "Seek the heart of each of the four moons. Together, they can sunder the walls of my prison. But, for now, eat of my fruit and be blessed."
+
+The mysterious voice is a message from Tharizdun to his faithful. It refers to the elemental nodes that can fulfill the doomdreamers' plans (see the Introduction and Chapter 8: The Fire Node).
+After the voice speaks, a lustrous black fruit suddenly appears in t h character's hands. Each character who enters the chamber and eats the fruit gains a permanent 1+ inherent bonus to a random ability score. Three rounds after the fruit appears, the player is transported to Area 32B.
+
+Anyone who attempts to go through this process more than once or eats a fruit given to another suffers 2 points of permanent drain from a random ability score. For example, a character who attempts to eat a third fruit in this manner must successfully make Fortitude save (DC 18) or be obliterated, leaving nothing but gray mist (only true resurrection can bring the character back). Even on a success, another two points of a random ability score are permanently drained. Attempting to eat a fourth fruit results in obliteration, with no saving throw allowed.
+
+32G. Horrific Summons (EL variable)
+An archway is carved out of the stone so that it seems to be a curved mass of writhing tentacles and serpents. Beyond the opening is a smooth, black wall.
+
+Merely touching this apparent dead-end is a colossal mistake.
+
+The character must succeed at a Fortitude save D(C 15) or suffer initial and secondary damage of 2d6 temporary Constitution. Those drinking the corrupted water get no saving throw. Anyone slain by interaction with the water is immediately transformed into a ghast.
+
+33. Crypt (EL 4)
+Dismal and cold, this dusty, cobweb-filled chamber has all the trappings of a crypt. Sarcophagi era stored in the dark, shadow-filled alcoves along the walls.
+
+This area is also unholy, as the result of an unhallow spell. The site has permanent protection from good effect, and the unholy aura confers a -4 profane penalty on turn undead attempts (+4 to rebuke undead). The ancient spell no longer has any other effects attached to it.
+
+A secret door slides to one side within the tiny alcove to the north and opens into a cramped tunnel about 3 feet high and wide, leading to the hollow column in area 2. The back of one crypt to the south is broken out and leads through a cramped earthen tunnel, thick with the reek of decay. The tunnel ceiling is barely 5 feet high.
+
+Creatures: Four ghouls dwell here, lurking among the crypts. Their hiding places are marked with dots on the map. They stagger out of the crypts one at a time, one per round. •Ghouls (4):hp10, 12, 13, 14; see Monster Manual page 97.
+
+AdHoc XP Adjustment: Because of the unholy aura in this place and the fact that they are hiding, these undead are more challenging to deal with than usual. This encounter should award 110% of the regular XP.
+
+34. Ghoul Caves
+The passage is rough as if borrowed from the earth. The walls seem to close in. Bits of dirt falls from the ceiling and walls as you pass them. The place stinks of death.
+
+This warren of tunnels was clawed out over the ages by the ever-present ghouls and is filled with their leavings.
+
+34A. Undisturbed Secret Shrine (EL 5)
+This cave seems cut at strange angles, creating disturbing shadows and weird, seemingly impossible bends and curves. The stone is cloudy purple in color. The rising plane, to which the archway is a one-way gate. Rising from floor to ceiling is a tall, four-sided column, natural but extensively carved so that each side sports a different graven image. Before the column is an altar made of flat, porous, slightly corroded black rock, sitting atop a 1-foot-high platform of black stone speckled and
+streaked with violet. The room is cold-- a soul-numbing chill that grips one's very heart, as well as one's sanity. Rather than a mere judgment, it is a fact that this is an evil place.
+
+The clerics of the Elder Elemental Eye never found this ancient shrine, a companion to the room with the obelisk. The ghouls know of it but are too stupid and single-minded to tell their masters.
+
+Four-Sided Column: This is similar to the statue wand in area 32A but is three times the size. Each side hides a small secret compartment that hides some treasure.
+
+The first is jet black, depicting a mall, muscular man in full plate
+mail with unfamiliar flanges and fluting. He wears a cape and holds a wavy-bladed sword. The secret compartment contains a bead of force.
+
+The second side is dark green, carved into a man swathed in a flowing robe with long sleeves and a high collar. Covering the face is a mask resembling the one that the dead Master Thaque possessed (see area 6). The secret compartment holds a skin-covered black drum.
+
+The third side is a deep blood red and depicts a man in high boots, a doublet, and gauntlets of twisting design. A hood drawn tight around the face covers his head. The secret compartment has a set of silver chimes (worth 200 gp).
+
+The fourth side is a statue of a man colored deep indigo. The figure is clothed in a many-pleated robe with a sash covered in strange sigils (impossible to decipher). His head is cowed, and he cradles a scepter in his folded arms. In the compartment is a bronze brazier with chunks of incense.
+
+Altar (EL 5): If the altar is touched by living flesh or struck with force, it begins to fade. In 3 rounds, its color transforms to translucent amethyst with a black, amorphous center. Anyone touching the altar further must succeed at a Fortitude save (DC 18) or be paralyzed for 1d4 hours.
+
+If the PCs search the four-sided column and discover the objects inside, they risk producing a different and much more dangerous effect. On beating the drum, ringing the chimes, and lighting the brazier, a glowing golden eye swims not view from the stone's writing center. All creatures
+viewing the Eye must make Will save (DC 20). Failure results in a random effect, as described below.
+
+	d100	Result
+	01-05	Death
+	06-20 	1d2 negative levels
+	21-40 	insanity (as if permanently affected by confusion)
+	41-60 	1d3 permanent Wisdom drain
+	61-80 	2d6 temporary Strength damage
+	81-100 	1d6 temporary Constitution damage
+
+The altar's most potent effect requires the presence of a tentacle rod (found in area 120 of the Crater Ridge Mines. area 19 of the Outer Fane, and Level 8 of the Inner Fane) when the Eye appears. In this case, the altar becomes transparent heliotrope in color, the black mass at the
+center grows larger and shows swollen veins of purple, and the Eye is a fiery red-orange. A tentacle emerges from the altar and grabs the nearest living creature, pulling it into the stone (+15 attack, +10 Strength bonus, treat as Large). A creature drawn into the altar is destroyed, while the stone returns to its black, opaque state. Atop the altar appears a single magic item wished for by those in the shrine, worth up to 50,000 gp (for multiple items, determine which one appears randomly).
+
+The Book of the Dark Eye resides in the Fire Temple complex of the Crater Ridge Mines (see area 122 in Chapter 5). This book, which deals with the worship of the Elder Elemental Eye, describes in detail the process of activating the altar.
+
+35. Wall of Stone
+Use this description only if a character carefully examines the end of this dead-end passage.
+
+A solid stone wall, clearly different from the masonry around it,
+forms the end of the passage. It is fused with the stone of the walls and the floor and ceiling.
+
+This is the result of a wall of stone spell cast long ago. The clerics of the Elder Elemental Eye have no idea what's on the other side, nor do they care, having discovered the black obelisk they were sent to find.
+
+36. Secret Passage
+The stone passage heads east for 40 feet before narrowing to a rough-hewn tunnel 5 feet wide. It gradually slopes up as it continues eastward another 400 yards, then opens into a small, natural cave. Hidden among boulders, the cave mouth lies by the riverbank about a quarter-mile east of the moathouse.
+
+The clerics of the Elder Elemental Eye have yet to learn about this passage, but a few others do, including Spugnoir and Elmo (see Chapter 1: The Town of Hommlet).
+
+37. Cockatrice Lair (EL 5)
+This sour-smelling room contains three nests made of black cloth, river reeds, and bits of wood. Each nest is about 3 feet across. A stone inside the southern entrance looks like half a gigantic rat, the other half smashed to bits around it.
+
+The stone is what remains of a dire rat, petrified by the cockatrices here.
+Creatures: Three cockatrices nest here, but only two are present. Vicious and foul-tempered, they attack anyone they see, hissing and snarling.
+
+Cockatrices (2): hp 25, 30; see Monster Manual page 38.
+Treasure: Within each nest, a searcher can find an intact black cloak with a gold eye of fire embroidered on the back, along with numerous scraps of others.
+38. Old Barracks (EL 3)
+Smashed wooden beds, at least a dozen, lie haphazardly about in this ruined chamber. A handaxe and the aged remains of the figure who wielded it, still clad in rusted half-plate armor, lie in the middle of the floor.
+
+The area to the south is likewise filled with debris, mostly from broken crates and casks. It was once a storage area.
+
+Creature: Another cockatrice wanders about this room, poking about the ruins. It attacks immediately. It is so stupid that it does not come to the aid of its kin in Area 37, even if it hears fighting
+Cockatrice: hp 27; see Monster Manual page 38.
+Treasure: Searchers can locate twelve 100-gp gems, fallen between two loose stones on the floor along the west wall.
+39. Old Bedchamber
+This room obviously once was lavish in its appointment. Now, its once-fine wall hangings, soft chairs, thick rugs, and plush couch are all in tatters. A wooden table, a single chair, and a bed comprise the rest of the room's furnishings. Dust-covered, moth-eaten bedclothes lie in a heap next to the bed, whose mattress
+has been cut open and the stuffing scattered about. A skeleton clothed in tattered dark robes lies on the floor near the table.
+
+Most people who've seen the skeleton believe that the remains are those of Lareth the Beautiful. That is precisely what they are meant to think. That dark cleric called himself the "New Master" began fortifying the moathouse a few years ago when the Temple of Elemental Evil attempted to rise again. While Lareth was slain by adventurers in this room, an even more powerful cleric of the Elder Eel mental Eye, named Hedrack, raised him from the dead soon afterward and spirited him away. Now Lareth lives as a recluse in the nearby village of Nulb (see Chapter 3: Ghost Town and Ruined Temple).
+
+Characters with the Heal skill who examine the body and make a successful skill check (DC 15) notice that the remains bear marks of disease and no signs of violence (a plague victim's body was substituted for Lareths). This is the only clue at this point that Lareth is alive.
+
+Treasure: A successful Search check (DC 15) uncovers a small spider medallion on the skeleton and a wand of doom with 1 charge remaining. A successful Knowledge (religion) check (DC 15) identifies the spider symbol as one of Lolth, the demon goddess of drow and spiders.
