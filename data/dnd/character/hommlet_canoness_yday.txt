@@ -1,0 +1,96 @@
+Canoness Yday
+
+Description:
+    Canoness Yday is an aged cleric who maintains the largest Temple in town. She is a human acolyte with a background
+    in knowledge and wisdom. Yday was instrumental in the fall of the Temple of Elemental Evil and its completed
+    defeat a few years later. She suspects there was more to that Temple than she and her allies saw. Yday is aware
+    that a great demon that lived within is gone now, but she spends waking nights now and again wondering what
+    "elemental evil" truly represented and what the truth behind the forces and funding of the Temple. No one can
+    get in to see Yday without first speaking to Calmer, who casts detect Evil on any wishing audience. Calmer is
+    Yday's assistant and trusted friend. Terjon, the second-in-command, is an adventurer at heart. He prefers that
+    Yday manage the Temple's affairs so that he can go on expeditions. About one-quarter of the time, he is off on a
+    quest for something or other. Derim is a new acolyte who keeps quiet and observes, learning the hierarchy of the
+    church and, indeed, the town.
+
+
+CLASS & LEVEL: Cleric 10
+BACKGROUND: Acolyte
+RACE: Human
+
+ARMOR: 16
+Max HP: 73
+HIT DICE: 10d8
+
+STRENGTH: +0 11
+DEXTERITY: +0 10
+CONSTITUTION: +2 14
+INTELLIGENCE: +3 17
+WISDOM: +4 18
+CHARISMA: +2 14
+
+Attack:
+    Mace, Melee Weapon
+    Reach: 5ft.
+    Bonus: +4
+    Damage: 1d6
+
+    Dispel Evil and Good:
+
+Actions in Combat: Attack, Cast a Spell, Dash, Disengage, Dodge, Grapple, Help, Hide, Improvise, Ready, Search, Shove,
+    Use an Object
+
+Channel Divinity: Knowledge of the Ages
+    As an action, you can use Channel Divinity to gain proficiency with any skill or tool for 10 minutes.
+
+Channel Divinity: Read Thoughts
+    As an action, you can use Channel Divinity to choose one creature that you can see within 60 ft. That creature must make a WIS saving throw (16). On success, you can’t use this feature on it again until you finish a long rest. On failure, you can read its surface thoughts while within 60 ft. for 1 minute. During that time, you can cast suggestion as an action on the target without expending a spell slot.
+
+Channel Divinity: Turn Undead
+    As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a WIS saving throw (DC 16). If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+
+Divine Intervention:
+    As an action, you can request your deity's aid and roll percentile dice. If your roll is equal to or less than 10, your deity intervenes (your DM chooses the nature of the intervention). If successful, you can't use this feature again for 7 days, otherwise, you can use it again after a long rest.
+
+Healer Healing:
+    As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 HP to it, plus additional HP equal to the creature's maximum number of Hit Dice. The creature can't regain HP from this feat again until it finishes a short or long rest.
+
+Unarmed Strike:
+    You can punch, kick, head-butt, or use a similar forceful blow and deal bludgeoning damage equal to 1 + STR modifier
+
+Spell List:
+    Cantrips
+        Guidance
+        Light
+        Mending
+        Spare the Dying
+
+    1st Level:
+        Bless
+        Command
+        Identify
+
+    2nd Level:
+        Augury
+        Lesser Restoration
+        Prayer of Healing
+        Suggestion
+
+    3rd Level:
+        Beacon of Hope
+        Clairvoyance
+        Mass Healing Word
+        Nondetection
+        Remove Curse
+        Revivify
+        Speak with Dead
+
+    4th Level:
+        Arcane Eye
+        Confusion
+        Death Ward
+
+    5th Level:
+        Dispel Evil and Good
+        Legend Lore
+        Raise Dead
+        Scrying
