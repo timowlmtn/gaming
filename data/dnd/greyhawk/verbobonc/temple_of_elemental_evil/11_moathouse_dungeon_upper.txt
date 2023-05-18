@@ -5,6 +5,32 @@ The reason is that this fortress is over the site of an ancient shrine to Thariz
 
 Here are the rooms of the Moathouse Dungeon.
 
+18. Gnoll Guards (EL 2)
+The landing at the bottom of the stairs opens up to a cavernous space with towering 12-foot ceilings. The masonry stone
+walls are covered in a viscous, black slime that glistens in the dim light. The walls feel damp and slick to the touch,
+exuding an unsettling aura. The air is heavy with a musty odor, hinting at the presence of decay and dampness. The
+flickering light source casts eerie shadows across the space, emphasizing the foreboding atmosphere of this mysterious
+underground chamber.
+
+Two hulking gnolls stand guard on the landing, their feral and hyena-like features dominating their appearance.
+Their mangy fur is a patchwork of matted browns and grays, resembling the wild coat of their animal kin.
+Snarling maws reveal sharp, yellowed teeth, while their bloodshot eyes gleam with a predatory glint. Their muscular
+bodies are hunched, conveying a constant readiness to pounce. Clad in scraps of scavenged armor, they wield wickedly
+curved blades, their jagged edges reflecting the dim light. These gnolls exude an aura of savage brutality, emanating
+a primal menace that warns intruders of the danger that lies ahead.
+
+19. Old Storeroom
+You enter an old storeroom, its wooden shelves worn with age and the musty scent of dust permeating the air. In the
+corner, three large shields lean against the wall, bearing the marks of battles fought long ago. Each shield displays
+intricate designs, faded with time but still hinting at past glories. Nearby, a weathered suit of leather armor hangs
+from a rusted iron hook, its once supple material now cracked and worn. It tells the story of a warrior's resilience
+ and the passage of time, silently waiting for someone to breathe new life into its aged form.
+
+20. Old Armory
+The old armory lies in ruin, filled with splintered wood and debris. Water drips incessantly from the ceiling, forming
+small puddles on the decaying floor. The air is heavy with the scent of dampness and neglect, a haunting reminder
+of past glory.
+
 21. Prison (EL 3)
 Littered with bones, broken stonework, and bits of rusty meat,l this area appears to have once been the real crux of the dungeon. Cell doors-some hanging open, some closed- line the west wall. Wide pillars stretch from floor to ceiling, with manacles dangling from them. Finally, you see a small wooden door in the north portion of the room and an archway in the eastern wall.
 

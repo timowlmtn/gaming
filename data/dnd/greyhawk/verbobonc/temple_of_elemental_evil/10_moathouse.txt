@@ -67,5 +67,7 @@ Roll		Creature
 91-95	1d4+1 hobgoblins
 96-100	Troll
 
-Aside from such dangerous encounters, the PCs can see deer, badgers, snakes, quail, thrushes, blue jays, hawks, field mice, ground squirrels, and insects. However, when they get close to the moathouse, they encounter few animals of any size-a dragon has chased them away.
+Aside from such dangerous encounters, the PCs can see deer, badgers, snakes, quail, thrushes, blue jays, hawks,
+field mice, ground squirrels, and insects. However, when they get close to the moathouse, they encounter few
+animals of any size-a dragon has chased them away.
 
