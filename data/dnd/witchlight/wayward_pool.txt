@@ -1,0 +1,59 @@
+Wayward Pool
+Characters on their way to Loomlurch or Little Oak are likely to pass by Wayward Pool. When the characters first catch sight of this small lake, read:
+
+Mist drifts over the surface of a small lake. Forested crags line the shore on one side of the lake, and mossy rocks protrude from the shallows. Near the center of the lake is a rocky islet.
+
+Those who try to come within 1,000 feet of the pool’s shoreline find that any path they take through the forest leads them back to where they started, and flying creatures find themselves unintentionally veering off course. This glamor is the work of a unicorn named Lamorna, who has claimed Wayward Pool as her domain. To reach the shore, one must be a unicorn or adopt the guise of one. The Getaway Gang has a unicorn costume that can accommodate two characters; other characters can satisfy the pool’s protective ward by attaching fake unicorn horns to their heads. False horns can easily be hewn from wood or created using a silent image spell or similar magic.
+
+
+LAMORNA THE UNICORN CONJURES A WATERY EFFIGY OF HER LOST MATE, ELIDON
+The wizard Kelek, founder of the League of Malevolence (see appendix B), has ordered the assassin Zarak to hunt down Lamorna and chop off her horn. Zarak lurks in the forested outskirts of the pool, trying to find a way to the shore. (He doesn’t know about the “look like a unicorn” requirement.) Characters who have a passive Wisdom (Perception) score of 15 higher get the feeling they are being watched. See “Zarak Attacks!” below for more information.
+
+Regional Effects
+As long as Lamorna is alive, the following regional effects apply within 1,000 feet of the lake:
+
+All nonmagical flames in the region are extinguished. (A fire that’s ignited in the bowl of coals on the lake’s central island is an exception to this rule.)
+Beasts and Fey have advantage on all Dexterity (Stealth) checks made in the region.
+Any creature that bathes in the lake for at least 1 minute can choose to end 1 level of exhaustion affecting it or one curse affecting it. Alternatively, the creature can end its attunement to one cursed magic item.
+Summoning the Unicorn
+Getting to the islet in the middle of the lake requires crossing 250 feet of fresh, still water. The lake is 30 feet deep, and the islet is 30 feet wide and 40 feet long.
+
+Perched atop the islet’s highest point, 30 feet above the surface of the water, is an iron bowl filled with coals. If a creature lights a fire in the bowl using the coals, Lamorna the unicorn appears on the lakeshore 1 minute later and waits for the characters there; otherwise, she remains hidden.
+
+If Lamorna appears, read:
+
+The lakeshore mists part to reveal a white horse with a single gleaming horn on her brow. She stands perfectly still, silently observing you.
+
+Lamorna bolts into the forest if the adventurers make any threatening moves. Otherwise, she waits for one or more characters to approach within 60 feet of her, and then makes contact telepathically. Lamorna is curious to know why the group has come to Thither and is sympathetic toward anyone who has a grievance with the Hourglass Coven.
+
+Lamorna can reveal the following information. As she speaks, the waters of the lake animate to form liquid sculptures of the things she describes:
+
+The domain of Prismeer once belonged to the archfey Zybilna, but was usurped by her cruel hag stepsisters: Skabatha Nightshade, Bavlorna Blightstraw, and Endelyn Moongrave.
+Zybilna was vainglorious and deceitful at times, but her magic kept Prismeer safe and isolated. That situation ended when the hags of the Hourglass Coven captured Lamorna’s mate, Elidon; stole his horn; and used its magic to imprison Zybilna in her stronghold, the Palace of Heart’s Desire.
+Elidon’s horn might be needed to free Zybilna, but Lamorna doesn’t know the whereabouts of Elidon or his horn. She tells the characters that she believes Elidon is the hags’ prisoner. (If Elidon had died, Lamorna believes she would’ve sensed it.)
+Lamorna exhorts the characters to free Zybilna and save Prismeer from the evil hags. She tells them that one of Yon’s denizens, Amidor the dandelion, can lead the group safely to the Palace of Heart’s Desire. She offers Wayward Pool as a safe place to rest, if the characters need it. She can also describe the lake’s magical properties (see “Regional Effects” above).
+
+If the characters question Lamorna about the Palace of Heart’s Desire, she reveals the following information:
+
+When Zybilna ruled Prismeer, no one could enter her palace without an invitation. It’s unlikely that the Hourglass Coven is capable of enforcing similar restrictions on the palace.
+A library on the second floor of the palace contains Zybilna’s most treasured tomes.
+A dragon-like creature called a jabberwock lives in Zybilna’s palace and frequently prowls the forest. The jabberwock tries to reach Wayward Pool but is always turned away by the lake’s protective magic. Lamorna emphasizes that the characters would be wise to avoid the jabberwock, for once it sets its fiery eyes on prey, it rarely gives up the hunt.
+Zarak Attacks!
+Zarak (see appendix B) follows the characters to the lakeshore, avoiding detection all the while. After seeing the characters adopt one or more unicorn disguises to reach the shore, he crafts a wooden fake unicorn horn, which he ties to his head with a leather belt strap and removes upon arriving at the lakeshore. He makes his assault as the characters’ conversation with Lamorna winds down, taking advantage of the distraction provided by the characters to surprise the unicorn:
+
+A cloaked figure springs from the forest and, with blades flashing, attacks the unicorn. Under the assassin’s cowl, you see a wide, toothy smile.
+
+Characters who have a passive Wisdom (Perception) score of 17 or higher are not surprised by Zarak. All other creatures in the area, including Lamorna, are surprised.
+
+On Lamorna’s first turn after the surprise round, she teleports away, denying Zarak his prize and leaving him to face the characters alone. At this point, Zarak is disgusted with himself for not felling the unicorn immediately (“I didn’t know unicorns could do that,” he mutters as Lamorna teleports away), but he’s smart enough not to antagonize the characters any more than he already has. If the characters aren’t spoiling for a fight, Zarak is satisfied to stand down and retreat back into the forest.
+
+Zarak is willing to give up his hunt in exchange for gold or if the characters seem likely to kill him. Characters who tell Zarak about the riches in Nib’s cave (see “Nib’s Cave” earlier in the chapter) pique his greed; if he is led there, he takes all the gold he can carry and falls prey to Nib’s curse.
+
+The characters can try to capture Zarak, but he’d rather die than surrender his weapons and his freedom. He’s not much use as a hostage, since no other member of the League of Malevolence cares what happens to him, and he refuses to divulge the secret ways to and from the Palace of Heart’s Desire. But if a charm person spell or similar magic is used to make him friendly toward one or more of the characters, he can be coaxed into sharing the following information with them:
+
+Most of the creatures in Zybilna’s palace, including Zybilna, are frozen in time. The hags of the Hourglass Coven used an artifact called Iggwilv’s Cauldron to accomplish this effect. Zarak doesn’t know exactly how the cauldron or its magic works.
+The self-proclaimed leader of the League of Malevolence is a human sorcerer named Kelek. He wants to take custody of a magic staff belonging to his hated rival, the wizard Ringlerun, who is among those frozen in Zybilna’s palace. Apparently, a unicorn’s horn is needed to free Ringlerun from temporal stasis, which would then enable Kelek to seize Ringlerun’s staff.
+Zargash, a human priest of Orcus, is another member of the League of Malevolence. Although he hopes to challenge Kelek’s leadership one day, Zargash won’t do anything about it as long as Kelek is protected by Warduke, a mercenary who has a flame tongue longsword.
+A fifth member of the League of Malevolence, a human warlock named Skylla, gets her magic from an archfey named Baba Yaga. Skylla knows more about Iggwilv’s Cauldron and the hags of the Hourglass Coven than anyone else (as far as Zarak knows). But she has gone missing, and none of the other members of the league know where to find her.
+Development
+Lamorna’s mate, Elidon, has been transformed into a flying rocking horse that Granny Nightshade rides as a mount. If the spell on Elidon is broken and he is reunited with Lamorna, she rewards each character with a charm of heroism (see “Supernatural Gifts” in the Dungeon Master’s Guide).

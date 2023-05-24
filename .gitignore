@@ -1,1 +1,3 @@
 /src/openai/jupyter/.env
+/src/openai/greyhawk/.env
+/src/openai/prismeer/.env
