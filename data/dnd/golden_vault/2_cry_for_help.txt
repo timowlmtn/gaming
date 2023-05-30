@@ -1,0 +1,68 @@
+A Cry for Help
+Time is short, and Dr. Dannell is desperate for help. She has exhausted all official channels and has turned to the characters.
+
+The characters should have some connection to Dr. Dannell to explain why she reaches out to them. Have your players determine this connection before the adventure begins. Here are some possibilities:
+
+Dannell Family Friend. Dr. Dannell hails from a family of professors and scientists who have interacted significantly with Varkenbluff’s intellectuals and nobility. One or more characters have rubbed shoulders with members of the Dannell clan, including Cassee.
+
+Museum Enthusiast. Dr. Dannell’s research is cited liberally in the Varkenbluff Museum of Natural History’s exhibits, and she regularly corresponds with fans of her work, including one or more characters who have earned her respect.
+
+Varkenbluff University Student. Dr. Dannell has taught numerous anthropology and history classes attended by one or more characters and is impressed with their occult acumen.
+
+Once the characters have determined their connection to Dr. Dannell, read the following out loud to get this adventure started:
+
+No matter your business this morning, a grave halfling messenger finds you and hands you a sealed parchment.
+
+“Meet me at the Sage’s Quill today as soon as you can,” the missive reads. “I beg your help in a delicate matter whose importance cannot be overstated. I shall await you in a purple hooded robe.”
+
+The note is signed, “Dr. Cassee Dannell.”
+
+When you look up, the halfling has wandered off.
+
+The Clock Is Ticking
+The Sage’s Quill is a quiet, plush tavern that caters to the city’s academics and intellectuals. It is located next to the Varkenbluff Museum of Natural History, less than a mile from Varkenbluff University.
+
+Once the characters arrive at the tavern, read the following out loud:
+
+As you enter the Sage’s Quill, soft light reveals mahogany furniture and luxurious carpets. A few genteel patrons murmur in the lounge. You soon notice a purple-hooded figure tucked into a corner booth.
+
+Dr. Dannell gestures for you to sit. You notice lines of worry etched into her normally cheerful face.
+
+Dr. Dannell (neutral good, human commoner) has an Intelligence score of 18. She anxiously addresses the characters:
+
+“Thank you for coming so quickly,” she says. “A few weeks ago, I attended a dig in the Murkmire that unearthed a furrowed, light-green stone. I’ll give you all the details, but the bottom line is that it isn’t a stone at all—it’s the egg of an eldritch horror. Moreover, my research indicates it’ll hatch at midnight tonight.
+
+“Trouble is, no one will listen to me. The university ignored me, and I was caught trying to steal the egg from the museum so I could contain it. Now I’ve been fired, the Murkmire Stone display at the museum opens tomorrow, and the egg is about to hatch.
+
+“You’ve got to steal the Murkmire Stone and bring it back so I can save the city!”
+
+What Dr. Dannell Knows
+
+DR. CASSEE DANNELL
+If the characters talk with Dr. Dannell further, she gives more information about their mission and what she has learned about the stone:
+
+Getting the Egg. The characters need to reconnoiter the museum in search of security measures, steal the Murkmire Stone at an opportune time (see “Stealing the Murkmire Stone” below), and deliver it to Dr. Dannell. She’ll wait for them in an alley between the museum and the Sage’s Quill.
+
+Traits of the Egg. The Murkmire Stone can’t be damaged or destroyed. Unearthing the egg triggered the rapid development of the creature within, which will soon be ready to hatch.
+
+Containing the Egg. At this point, the only way to keep the egg from hatching is to encase it in a specially prepared crystal container. Dr. Dannell created a crystal box for this purpose. She still needs to seal cracks in the crystal, so the characters can’t take the box with them on the heist.
+
+What’s in the Egg. Dr. Dannell’s occult sources indicate an extremely dangerous creature will hatch from the egg unless it can be safely contained.
+
+Stealing the Murkmire Stone
+The Murkmire Stone is going on public display tomorrow at the Varkenbluff Museum of Natural History, Dr. Dannell explains. A private gala celebrating the new exhibition will occur tonight in the museum’s second-floor Gemstone Wing.
+
+The characters aren’t required to attend the gala, but doing so is the only way to glimpse the stone—and the security measures around it—before their heist. Dr. Dannell has secured a gala ticket for each character, and she gives them the tickets now.
+
+The characters must wear formal dress to the gala. Dr. Dannell has an appropriate outfit for each character in her heirloom bag of holding. Dr. Dannell lends the bag to the characters to store their adventuring gear, which they’ll need while sneaking about the museum after hours.
+
+Dr. Dannell’s Tools
+Before her unsuccessful attempt to steal the Murkmire Stone, Dr. Dannell scouted the Varkenbluff Museum of Natural History. She pretended to be a patron and recorded the museum’s layout, filling in what she knows about nonpublic areas, such as the basement.
+
+Dannell’s Map. Dr. Dannell gives the characters her sketch of the museum (see map 1.1) before they leave for the gala. Although she’s a brilliant academic, Dr. Dannell is neither an architect nor a burglar. Her map is based on the public map of the museum’s exhibits, so it is incomplete and lacks information about the museum’s security measures. For instance, Dr. Dannell knows the museum is outfitted with alarms after it closes to the public, but she doesn’t know where those alarms are located or how to bypass them.
+
+Museum Staff
+Dr. Dannell knows that the museum has twelve guards and that the museum curator—the elf Alda Arkin—likely has a record of the areas the guards patrol at night. Dr. Dannell suspects this information is in Arkin’s office, located somewhere in the eastern wing on the first floor. Arkin herself will attend the gala.
+
+The Reward
+For bringing the Murkmire Stone back to Dr. Dannell, she offers her bag of holding plus 20 gp per character. If a character succeeds on a DC 13 Charisma (Persuasion) check, Dr. Dannell increases her offer to 30 gp per character.

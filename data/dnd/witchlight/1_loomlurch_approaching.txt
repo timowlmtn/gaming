@@ -1,0 +1,28 @@
+Loomlurch
+Granny Nightshade’s lair is built around a twisted workshop carved out of the interior of a gigantic oak that has fallen over.
+
+The workshop is operated by kidnapped children who are allowed a small measure of freedom to carry out their labors, under the watchful eyes of the hag’s minions.
+
+Loomlurch has the following physical features:
+
+Ceilings. Unless otherwise noted, ceilings throughout Loomlurch are 8 feet high.
+
+Doors. Loomlurch’s doors are made of sturdy wood with iron handles and fittings. All doors are unlocked unless the text says otherwise. As an action, a character using thieves’ tools can make a successful DC 14 Dexterity check to pick the lock on a locked door, or a character can try to force a door open, doing so with a successful DC 15 Strength (Athletics) check.
+
+Floors, Walls, and Stairs. Floors, walls, and staircases are hewn out of the wood of the giant tree.
+
+Windows. Loomlurch’s windows are openable but are latched shut from the inside.
+
+Approaching Loomlurch
+Describe Loomlurch to the players as their characters come within view of the site:
+
+The forest is at its darkest here. Up ahead, a colossal dead oak lies on its side. Three living trees grow naturally out of its fallen remains. Their shapes resemble towers, with candlelit windows twinkling in the gloom and wooden balconies encircling gnarled branches. On one side of the fallen tree, firelight spills from a pair of quaint storefront windows, illuminating a clearing filled with merchant stalls.
+
+Characters arrive near the root bridges (area L1). Anyone who observes the workshop (area L4) can see diminutive figures prowling around inside: kidnapped children and boggles.
+
+DOUBLE, DOUBLE, TOIL AND TROUBLE
+
+If the characters drive Bavlorna Blightstraw from her home in chapter 2, the hag takes refuge with her sister, Skabatha Nightshade, and spends all her time in the study (area L14), poring through Skabatha’s ritual books for a clever spell to overcome the characters or feeling sorry for herself. The two hags avoid each other as much as possible. Whenever they squabble, which is often, Skabatha ridicules her sister for Bavlorna’s failure at the hands of the characters.
+
+Before the party enters Loomlurch, Will of the Feywild—if he is present—outlines his plan for rescuing Granny Nightshade’s child captives (see “Getaway Gang Raid”). Characters who have not earned Will’s assistance must devise their own plan for getting inside.
+

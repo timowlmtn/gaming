@@ -1,0 +1,40 @@
+Loomlurch
+Where’s Skabatha?
+All of Loomlurch’s denizens are aware of Granny Nightshade’s daily routine, which is as follows:
+
+After waking from a long rest, she putters about in her garden (area L5) for 1d3 hours.
+Most of her day is spent in the kitchen (area L13), with occasional visits to the study (area L14).
+Before going to bed, the hag spends 1 hour conducting an inspection of the sewing room (area L9), the textile mill (area L12), and the workshop (area L4). After the inspection, Granny Nightshade moves to her bedroom (area L16), miniaturizes herself, and takes a long rest inside the dollhouse there.
+Visitors can arrange a meeting with Skabatha by speaking to Chucklehead the goblin boss (in area L2) or Pincushion the living doll (in area L9). Any such meeting with the hag takes place in the parlor (area L3).
+
+See appendix B for a description of Skabatha Nightshade and a summary of her rivalries with her sisters.
+
+Bargaining with Skabatha
+If you used the “Lost Things” adventure hook and the Story Tracker indicates that Skabatha has one or more things in her possession that the characters desire, Skabatha claims undisputable ownership of these lost things, asserting that she acquired them “fair and square.” Even so, she is willing to negotiate with characters who want to procure them. She is also inclined to strike bargains with characters who have other needs.
+
+In exchange for one thing in her possession that a character has lost, Skabatha demands the characters complete one of the following quests:
+
+Capture Will. Capture the brigand Will of the Feywild and bring him to Granny Nightshade alive. He’s sure to be hiding somewhere in the forest.
+
+Find the Lost Horn. Bring her the unicorn horn that she says her sister Bavlorna recently lost. Maybe Prismeer’s native denizens can help the characters find it.
+
+Spoil a Play. Sabotage a theatrical performance in Motherhorn, Endelyn Moongrave’s castle in Yon (see chapter 4). Skabatha would like nothing more than to see her sister bought down a peg or two. (To get to Yon, the characters will need a guide. Granny Nightshade expects them to know this fact and offers no help in finding a guide or seeing them safely to Yon.)
+
+Skabatha is true to her word, returning one lost thing for each task completed while offering no assistance toward accomplishing the tasks. Skabatha used the lost things to fashion minor magic items, all of which she keeps in her dollhouse (area L16).
+
+Skabatha’s Clockwork Key
+The clockwork key embedded in Skabatha’s back rotates quickly when she’s in a good mood and slows down as her mood sours. When she is furious, the key comes to a dead stop. When the key stops turning, Skabatha attacks objects or creatures indiscriminately until something lifts her spirits and quells her rage, such as the defeat of an enemy or some other triumph, whereupon her key starts turning again. Whenever Skabatha loses her temper and turns violent, 1d3 redcaps sprout in her garden (see area L15 and “Skabatha’s Minions” below).
+
+The key can’t be removed from Skabatha’s back while she lives, and it serves no function in the adventure other than to reflect her current mood.
+
+Defeating Skabatha
+In dire circumstances, Skabatha flees Loomlurch on her flying rocking horse mount (see area L6) and retreats to Motherhorn, the lair of her youngest sister, Endelyn (see chapter 4). If Bavlorna Blightstraw is in Loomlurch, she flees to Motherhorn as well.
+
+If Skabatha is slain, a beetle emerges from her rotten flesh and whispers Endelyn Moongrave’s weakness to Skabatha’s killer: “Endelyn fears eclipses, not just real ones but symbolic ones as well. If you want to kill her, best do it during an eclipse, or her body will re-form.”
+
+Skabatha’s Ring of Keys
+If the characters defeat Skabatha or successfully pick her pocket, they can obtain a ring of three iron keys that she keeps on her person:
+
+The first key locks and unlocks the doors leading from the garden (area L5) to the workshop (area L4) and the sewing room (area L9), and the door between areas L6 and areaL11.
+The second key locks and unlocks the doors to the kitchen (area L13) and Mishka’s chains there.
+The third key locks and unlocks the door to the cell in the kitchen (area L13).

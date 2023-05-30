@@ -1,0 +1,21 @@
+The Murkmire Stone
+Recently unearthed from the Murkmire outside the city of Varkenbluff, the nonmagical object called the Murkmire Stone is the egg of an eldritch creature. The opaque, light-green stone weighs 10 pounds and has abstract furrows on its surface.
+
+The egg’s removal from the Murkmire rapidly accelerated the development of the creature inside it. Starting at 10:30 p.m., the egg’s stony shell becomes translucent, revealing the horror inside, and it begins to emit a pulse of magical energy every 10 minutes. Whenever a pulse occurs, each creature within 20 feet of the egg must make a DC 10 Wisdom saving throw, and a creature holding the egg has disadvantage on the roll. If the egg is placed in a bag of holding or some other portable extradimensional space, the effect radiates from the container instead. Any creature that fails the saving throw is subjected to an effect determined by rolling on the Murkmire Stone Effects table. When a creature rolls for a new effect, the previous one ends. The effects end when the egg hatches or when the egg is encased in the crystal box Dr. Dannell provides.
+
+
+THE MURKMIRE STONE
+Murkmire Stone Effects
+d12	Effect
+1	Harsh whispers in an unknown language assault your consciousness. You gain vulnerability to psychic damage and can’t maintain concentration on spells.
+2	Adrenaline courses through your veins. You have advantage on Strength checks and Strength saving throws.
+3	Your limbs feel leaden, and your body responds sluggishly. You have disadvantage on Dexterity checks and Dexterity saving throws.
+4	Your skin takes on a weird sheen. You gain resistance to piercing and slashing damage.
+5	Your walking speed increases by 5 feet.
+6	Your mind is pulled in a thousand directions, making it difficult to focus. You have disadvantage on attack rolls.
+7	Ripples pulse underneath your skin like vermin are skittering inside your flesh. You have disadvantage on Charisma checks and Charisma saving throws.
+8	Your joints stiffen. You have disadvantage on Dexterity checks and Dexterity saving throws.
+9	You receive premonitions of attacks made against you. Attack rolls against you have disadvantage.
+10	Your thought processes are sluggish, as if you just awoke from terrible nightmares. You have disadvantage on Intelligence checks and Intelligence saving throws.
+11	Your senses are dulled, as if an invisible barrier sits between you and reality. You have disadvantage on Wisdom (Perception) checks.
+12	A shimmery film covers you. You gain a +2 bonus to AC.

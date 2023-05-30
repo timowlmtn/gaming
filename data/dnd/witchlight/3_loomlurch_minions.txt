@@ -1,0 +1,19 @@
+Loomlurch
+Skabatha’s Minions
+Granny Nightshade entrusts Loomlurch’s defense to various creatures, as described below. The hag’s minions, except for the redcaps, have orders to capture intruders alive and bring them before her.
+
+Boggles
+The despair of Loomlurch’s children has given rise to six boggles (see appendix C), three in area L4 and three in area L12. These cowardly creatures aren’t loyal to the hag, yet she tolerates them for the distress they cause the children.
+
+Cradlefall
+
+This green dragon wyrmling likes to hide in painted wooden boxes, of which there are three: one each in areas areaL3, areaL6, and areaL7. Each box is 3 feet on a side and has a hinged lid. A detect magic spell reveals an aura of conjuration magic around a box. A crank protruding from one side of the box attaches to a tiny metal music box mounted to the wooden box’s inside wall. Winding the crank causes the music box to play a 10-second tune reminiscent of a child’s lullaby. As the final note sounds, roll a d8. If the roll is 3 or lower and Cradlefall has not yet been defeated, the wyrmling bursts out like a jack-in-the-box, attacking creatures he considers his enemies. If the wyrmling has been dealt with, the lid springs open, but the box is empty.
+
+While curled up in a box with the lid closed, Cradlefall can use an action to teleport himself and anything he is holding to another closed box in Loomlurch. When he is not hiding in a box, Cradlefall curls up in front of the oven in Granny Nightshade’s kitchen (area L13). Appendix D has additional roleplaying notes for Cradlefall.
+
+Redcaps
+Whenever Skabatha’s windup key runs down, her anger boils over, causing 1d3 murderous redcaps (see appendix C) to sprout in area L15. These redcaps are too hateful to serve as guards, so Skabatha sends them scuttling off into Thither to wreak havoc. Until she does so, the redcaps remain in area L15 and attack other creatures on sight.
+
+Tin Soldiers
+These ten automatons are fashioned to look like stout infantry soldiers, and they obey Skabatha without question. Six of them remain in the barracks (area L7), and the remaining four patrol the balconies outside areas areaL8 and L12. They charge forth to investigate any suspicious activity they see or hear, meaning that they are easily distracted. Each one is a Small (3-foot-tall) suit of animated armor with 27 (6d6 + 6) hit points.
+

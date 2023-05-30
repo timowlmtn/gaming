@@ -1,0 +1,18 @@
+Loomlurch
+Lost Children
+Child	Location	Notes
+Naal (11-year-old male drow)	areaL4	Stole the key to the kitchen door
+Sung (9-year-old female human)	areaL4	—
+Philomena (8-year-old female lightfoot halfling)	areaL4	Won’t leave Loomlurch without Oink the pig
+Brottor (10-year-old male hill dwarf)	areaL8	Gravely ill after eating nightshade
+Pud (12-year-old male human)	areaL8	Secretly loyal to Granny Nightshade
+Wendel (11-year-old male strongheart halfling)	areaL9	—
+Roff (10-year-old female bugbear)	areaL9	Stole a pouch of dust of corrosion
+Yevelda (8-year-old female goblin)	areaL12	Knows a secret route into Granny Nightshade’s bedroom
+Callybon (11-year-old female forest gnome)	areaL12	—
+Pogo (9-year-old male forest gnome)	areaL12	—
+Mishka (9-year-old female human)	areaL13	Chained to a worktable
+The Lost Children table identifies the children currently held captive inside Loomlurch and their locations when the characters arrive. As time passes, the children can move about the lair, at your discretion. They stay clear of danger and play no role in combat. All of them are chaotic good.
+
+Children free of Granny Nightshade’s tyranny have no easy way to return home, but they can take refuge at Little Oak’s treehouse or be left in the care of the unicorn Lamorna at Wayward Pool. The dwarf Elkhorn (see area L13) insists on remaining in Thither to care for the children if no one else will. If Zybilna is freed from her stasis, she returns the children to their proper homes.
+

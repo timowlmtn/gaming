@@ -1,0 +1,144 @@
+The Opening Gala
+The private gala celebrating the opening of the Murkmire Stone exhibition begins at 6 p.m., and the museum closes at 8 p.m. There’s enough time for characters to prepare before attending, including retrieving or procuring formal attire if they don’t wish to wear the clothes Dr. Dannell provided. Weapons and visible armor are not permitted inside the museum and must be stashed in Dr. Dannell’s bag of holding or elsewhere.
+
+Once the characters are ready to enter the museum, keep track of which character has the bag of holding that contains the group’s adventuring gear. Then read the following aloud:
+
+The facade of the Varkenbluff Museum of Natural History boasts enormous columns and elegant archways hewn from marble. Cosmopolitan visitors bustle about the entrance, including some clad in sleek formalwear.
+
+The museum is open to the public today; only the Gemstone Wing on the second floor is closed for the ticketed gala. The Murkmire Stone is ensconced in the Gemstone Wing.
+
+Scouting the Museum
+The characters can explore the public areas of the museum while it’s open. The entire museum is public except for its offices (areas V5–areaV7), basement (area V16), and attic (area V17).
+
+The characters have about two hours to prepare for their heist before the museum closes. If the characters don’t immediately go to the Gemstone Wing (area V13), museum guards notice their formal attire and periodically suggest they do so.
+
+Information relevant to the characters’ heist plan is below. More information about specific areas of the museum is included in the “Museum Locations” section later.
+
+Entering Nonpublic Areas
+The doors to the museum’s offices (areas V5–V7) and basement (area V16) are locked at all hours, as described in the “Interior Doors” subsection of the “General Features” section. Curator Alda Arkin, whom the characters might meet at the gala, carries a master key, while the museum’s guards have keys that grant access to specific areas (see “Circumventing Security” and “Curator Alda Arkin”).
+
+Encountering Museum Guards
+As long as the characters aren’t caught entering a restricted area or causing a public incident, the museum’s guards ignore them during the gala.
+
+If one or more characters are spotted in a restricted area or cause a public incident, a guard approaches them. Roll on the Museum Guards table to determine which guard arrives. Characters in formal dress are escorted to the Gemstone Wing, while characters who are improperly dressed for the occasion are told to leave the museum at once. If the characters protest, the guard becomes hostile and shouts for backup. At the end of each of the guard’s turns, an additional 1d4 guards arrive until all the museum guards are accounted for.
+
+Provided a guard hasn’t shouted for backup, a character can take an action and use trickery or intimidation to convince a guard to leave. The character must make a DC 10 Charisma (Deception, Intimidation, or Persuasion) check. If the check succeeds, the character convinces the guard to look for trouble elsewhere. If the check fails, the guard becomes hostile and behaves as described above, and the character can’t repeat the check on that particular guard.
+
+Museum Guards
+d12	Guard Description
+1	Darrison Blackwaters (neutral human), a former soldier who takes everything literally
+2	Franceena Van Lictor (neutral good elf), a sarcastic newbie who respects history
+3	Billie Quartermile (lawful neutral halfling), who loves policy and procedure
+4	Milanova Wumplestocking (lawful good gnome), who is very serious but loves a good pun
+5	Garent Millaneff (neutral evil human), a bully who loves money and bragging rights
+6	Violet Pendergilt (neutral good human), a wistful dreamer who plans to quit soon
+7	Sureth Dhanvhal (neutral human), a reserve soldier who is always pressed for time
+8	Brendara Valindril (lawful neutral elf), a graduate student in history at the university
+9	Grendor Battleaxe (neutral good dwarf), a wanderer paying off a debt to the museum
+10	Clark Jonathan Vanth(lawful good human), a young and naive individual
+11	Sareena Shu(chaotic neutral tiefling), an overeager lover of history and learning
+12	Maryam Bikram(lawful neutral human), a city watch veteran who rigidly enforces the rules
+Investigating Security Measures
+The museum is protected by several security measures after it closes at 8 p.m.
+
+Alarms. Audible alarm spells have been cast in areas marked (A) on map 1.2. The museum’s guards and the curator have pass cards that allow them to bypass these alarms, and spare pass cards are kept in area V7 (see “Bypassing Alarms” below for more information). The alarms are located as follows:
+
+The front doors to area V1
+At the bottom of the stairs in area V1
+In each hallway leading from area V1 to area V3
+On the doors leading from area V1 to areas V5, areaV6, and areaV7
+In the hall leading from area V11 to area V12
+On the door leading from area V12 to the hallway to area V13
+If an alarm is on a door, touching the door sets off the alarm. If an alarm is on a 5-foot square, entering that square sets it off. The alarm on the front doors in area V1 extends 10 feet, covering the entire width of the doorway. When an alarm sounds, any guards in the area plus 1d3 other guards from that floor hear it and investigate.
+
+The characters can find a record of the museum’s payment for these spells, including their specific locations, by searching the records room (area V6); the alarms can also be detected using detect magic. The alarms aren’t armed while the museum is open to the public.
+
+Animated Statues. The statues that flank the front desk in area V1 and the statue next to the stairs in area V12 can animate after hours to attack intruders. These statues use the animated armor stat block. Causing a statue to animate alerts any guards in that area.
+
+A detect magic spell reveals an aura of transmutation magic around each statue. A character who becomes aware of the statues’ magical nature can make a DC 10 Intelligence (Arcana) check. If the check is successful, the character realizes the statues can animate.
+
+Gemstone Wing. If the characters don’t carefully remove the Murkmire Stone from its pedestal in area V13, arcane lock spells cause all doors leading to the room (including secret doors) to close and lock. As an action, a character can either try to unlock a door using thieves’ tools, doing so with a successful DC 20 Dexterity check, or force open the door by succeeding on a DC 20 Strength (Athletics) check. The characters can learn about this security measure by attending the gala (see the “Attending the Gala” section).
+
+Guards. After hours, Maryam Bikram is stationed at the entrance to the gala. Eleven other museum guards watch the areas indicated in the Guard Locations After Hours table. Guards have keys to certain areas. Guards also have pass cards that allow them to bypass the museum’s alarms (see “Bypassing Alarms” below).
+
+If the characters get into a noisy fight with one or more guards, an additional 1d4 guards arrive each round until all the remaining museum guards are accounted for.
+
+If the guards incapacitate a character or a character surrenders, the guards haul that character to the nearby city watch headquarters. If all the characters are caught, their mission is unsuccessful and the adventure ends.
+
+Guard Locations After Hours
+Area	Guards
+V1	2
+V3	1
+V4	1
+V8	1
+Area	Guards
+V9–V10	2
+V11	1
+V12	2
+V13	2
+Circumventing Security
+Characters who discover the museum’s security measures can find ways to circumvent them. A few suggestions are provided below:
+
+Avoiding Statues. Characters can keep the statues from animating by staying more than 5 feet away from them.
+
+Bypassing Alarms. The curator and guards each carry a palm-sized pass card embossed with the museum’s logo. A detect magic spell reveals an aura of divination magic around each pass card, which allows the bearer to bypass any of the museum’s alarms. The characters can find a stash of extra pass cards in area V7. A character who is hidden and within reach of a guard can try to steal that guard’s pass card without the guard’s knowledge, doing so with a successful DC 14 Dexterity (Sleight of Hand) check.
+
+Sneaking Past Guards. The characters can find a document in the curator’s office (area V5) that outlines the guards’ stations after hours. During the gala, the curator keeps this document on her person (see the “Curator Alda Arkin” section). Characters who spend at least 1 minute studying the document have advantage on Dexterity (Stealth) checks made to sneak past guards after hours.
+
+Stealing Keys. The curator carries a master key, while each guard carries a key that unlocks all doors to the area in which the guard is stationed. Guards in area V1 also have a key to the break room (area V7). A character can steal a guard’s key in the same way as they can steal a pass card, described in “Bypassing Alarms” above.
+
+
+THE MURKMIRE STONE IS THE PRIMARY TREASURE ON DISPLAY
+DURING THE VARKENBLUFF MUSEUM’S OPENING GALA
+Hiding in the Museum
+The characters can hide in numerous locations while the museum closes. Below are good options, which are detailed in the “Museum Locations” section:
+
+Cleaning Supply Storage. Short hallways that hold cleaning supplies are concealed behind secret doors in areas V3, areaV4, areaV8, areaV9, areaV12, and areaV13.
+
+Privies. The guards nominally check area V15 before closing, but anyone who hides here avoids detection.
+
+Attic or Basement. The guards don’t enter areas V16 or areaV17 before the museum closes.
+
+Reentering the Museum
+The characters might decide to leave the museum when it closes and sneak back inside after hours. Below are some strategies they might use:
+
+Front Doors. The characters could pick the lock on the front doors to area V1, use pass cards to bypass the alarm (see “Bypassing Alarms”), and contend with the falling net trap just inside the doors while remaining a safe distance from the animated statues.
+
+Attic Skylight. The characters could pick the lock on the skylight to enter the building. Grappling hooks and ropes are required to scale the building. By the end of the gala, it is dark enough to allow characters to enter through the attic skylight without being seen.
+
+Basement Doors. The characters could pry open the loading dock doors or prop open the secret door if they find it.
+
+Attending the Gala
+If the characters approach the private gala in the Gemstone Wing (area V13), they encounter Maryam Bikram (lawful neutral, human guard). The captain of the museum’s security force, Maryam is a serious woman and a veteran of the city’s watch. She admits any character who is dressed for the occasion and has a ticket. Others are turned away.
+
+When the characters enter the gala, read the following aloud:
+
+The Gemstone Wing’s oak doors open into a luxuriously appointed ballroom. Crimson tablecloths and fine china adorn dining tables, and chandeliers sparkle overhead. Cabinets with glittering gemstones surround the space. At the wing’s center is a marble pedestal bearing a peculiar, light-green stone.
+
+Twenty other gala attendees (unarmed and unarmored nobles) mill around the event. All are dressed in elaborate finery, and most are long-time donors to the museum.
+
+When a character interacts with an attendee, roll on the Gala Attendees table to determine whom they meet. The attendees know nothing about the Murkmire Stone beyond basic details about its discovery. However, if the characters fish for information about the stone or the museum and succeed on a DC 12 Charisma (Persuasion) check, an attendee reveals one random piece of information from the Museum Gossip table.
+
+Gala Attendees
+d4	Attendee
+1	Captain Frankheim Walters(chaotic neutral human), who never served in the military but implies he did
+2	Georgina Lucina Vandylarahal(neutral evil elf), a sneering heir to a mining fortune
+3	Countess Helene Danforth (neutral good human), a member of an ancient, titled family with little actual wealth
+4	Dr. Horthnar Stonecrusher (lawful good dwarf), a surgeon who loves natural history and gemstones
+Museum Gossip
+d4	Juicy Tidbit
+1	The curator has been fidgeting with her clutch all night. Has she gotten some sort of bad news? Maybe she’s about to fire someone!
+2	Sometimes the museum keeps displays hidden in the basement at night. The curator must think her own guards might steal something!
+3	It’s unfortunate that the museum has fallen on hard financial times. If only they sold all those ore and gem samples they keep in the basement. I’ve heard there’s a fortune down there!
+4	The curator adores oversized vintage dolls. I’ve heard she keeps one in her office that’s as big as a grown human!
+Curator Alda Arkin
+Mingling with the gala’s attendees is Alda Arkin (neutral evil, elf noble), the museum’s curator. During the gala, the curator is unarmed and unarmored. A retired university professor, Alda is responsible for the museum’s close ties to Varkenbluff University’s anthropology and archaeology departments.
+
+When she notices the characters, she assumes they’re wealthy museum donors, welcomes them, and engages in chitchat. Alda is familiar with Dr. Dannell. She deeply dislikes the anthropologist due to Dr. Dannell’s interest in the occult. If the characters mention Dr. Dannell’s fears about the Murkmire Stone, Alda snorts, dismisses their concerns, and leaves to mingle with other attendees.
+
+Alda’s Clutch. Characters who watch Alda closely notice a fancy clutch she holds behind her back. Inside the clutch is a map of the museum guards’ after-hours stations, a master key to the museum’s locked doors, and a pass card that allows Alda to bypass the museum’s alarms (see “Investigating Security Measures” earlier in the adventure for details).
+
+Examining the Murkmire Stone
+The Murkmire Stone sits atop a pedestal in area V13, flanked by informational placards about the stone’s discovery and theories about its use—though Dr. Dannell’s occult theory is missing.
+
+Gemstone Wing Security Measures. A character who spends at least 1 minute studying the pedestal during the gala realizes it has an elaborate defense mechanism (see area V13).

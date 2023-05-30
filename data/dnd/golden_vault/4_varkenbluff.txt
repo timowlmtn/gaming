@@ -1,0 +1,180 @@
+Varkenbluff Museum of Natural History
+Once the Murkmire Stone exhibition gala ends, the museum closes. Its staff members activate the protections listed in the “Investigating Security Measures” section.
+
+General Features
+The Varkenbluff Museum of Natural History has stone walls and tiled floors. The building’s other features are described below:
+
+Ceilings. The museum’s ceilings are 30 feet high.
+
+Interior Doors. The interior doors are closed and locked, with the exception of the privies in area V15. A character can use an action to try to unlock a door using thieves’ tools, doing so with a successful DC 12 Dexterity check unless otherwise noted. Attempting to use thieves’ tools to unlock a door with an enabled alarm spell triggers that alarm.
+
+Lighting. On the first two floors, most areas are lit with continual flame spells placed on sconces. The grand entrance (area V1), Prehistoric Predators exhibit (area V12), basement (area V16), and attic (area V17) are areas of dim light. Guards in areas V1 and areaV12 carry hooded lanterns.
+
+Secret Doors. A secret door can be found by any character who takes an action to examine the surrounding wall and succeeds on a DC 12 Wisdom (Perception) check.
+
+Museum Locations
+The following locations are keyed to map 1.2. The descriptions assume the characters are exploring the museum after it’s closed to the public.
+
+
+MAP 1.2: DM’S MAP
+VIEW PLAYER VERSION
+V1: Grand Entrance
+Statues depicting robed human women flank the sides of this public mingling space, which boasts a marble column in the center. The museum’s information desk is situated just inside the front doors. To the north is a grand staircase draped in rich carpet.
+
+Two guards patrol this area. The two statues flanking the information desk animate if a character comes within 5 feet of either of them. The statues use the animated armor stat block and fight until destroyed.
+
+Alarms. An alarm spell has been cast on the bottom of the grand staircase. Another such spell has been cast on the front doors.
+
+Front Doors. The museum’s front doors are locked from the inside. As an action, a character can try to pick the lock using thieves’ tools, doing so with a successful DC 16 Dexterity check.
+
+Trap. The 5-foot-by-10-foot section of floor immediately north of the museum’s front doors (marked T on map 1.2) contains a pressure plate hidden under a rug. Lifting the rug or pushing it aside reveals the pressure plate, which is activated and deactivated by a toggle switch hidden under the nearby information desk. The trap is normally activated while the museum is closed to the public and deactivated while the museum is open to the public.
+
+The first time a creature steps on the pressure plate while the trap is activated, a weighted net drops from a secret compartment in the ceiling, covering the 10-foot-square area between the front doors and the information desk. Creatures in that area are restrained by the net, and those that fail a DC 10 Strength saving throw are also knocked prone.
+
+A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. The net has AC 10 and 12 hit points. Creatures are no longer restrained by the net once it drops to 0 hit points.
+
+V2: Museum Shops
+Display racks here are filled with tunics, bandannas, books, and bric-a-brac, most emblazoned with the museum’s logo. Plush benches serve as seating areas.
+
+The eastern shop sells cheap souvenirs and bears a sign that reads, “The Historian’s Gifts.” The western shop sells books and artifact replicas and is labeled “The Archaeologist’s Spade.”
+
+Treasure. Each shop includes a small back room with a locked door. As an action, a character can try to unlock either door using thieves’ tools, doing so with a successful DC 16 Dexterity check. Inside each shop’s back room is a till containing 1d6 gp, 2d6 sp, and 3d6 cp. Additionally, one set of thieves’ tools can be cobbled together from the supplies in the back rooms.
+
+V3: Ancient Plants Exhibit
+Artificial plants made of wood, silk, and other materials sprout from artfully arranged planters. Tall ferns, bushes with strange berries, and slender trees are represented alongside placards about ancient plant life.
+
+One guard patrols this area. Hallways to the north and south connect to area V4.
+
+Alarms. The short hallways that connect this area to the grand entrance (area V1) have alarm spells cast on them.
+
+Secret Doors. The northern and central exhibit rooms each have a secret door in the west wall that opens into a short hallway containing cleaning supplies. At the opposite end of the hallway is another secret door that doesn’t require an ability check to spot from inside the hall. This secret door pulls open to reveal a similarly sized exhibit room in area V4.
+
+V4: Ancient Cultures Exhibit
+Glass display cases boast objects related to life in ancient Varkenbluff. Clay pots, stone tools, and scraps of leather clothes are interspersed with informational placards about their historical use.
+
+One guard patrols this area. Hallways to the north and south connect to area V3.
+
+Secret Doors. The northern and central exhibit rooms each have a secret door in the east wall that opens into a short hallway containing cleaning supplies. At the opposite end of the hallway is another secret door that doesn’t require an ability check to spot from inside the hall. This secret door pulls open to reveal a similarly sized exhibit room in area V3.
+
+V5: Curator’s Office
+A solid oak desk stands on a plush carpet in the center of this office. In the southeast corner, a strange, human-sized doll is posed in an elaborate silk dress.
+
+Alarm. An alarm spell has been cast on the door that connects this room to area V1.
+
+Deadly Doll. After hours, the curator enables her office’s defense mechanism: a five-foot-tall doll with the name “Marigold” sewn onto its vintage dress. When a creature other than Alda enters the room, the doll animates and attacks. Marigold uses the scarecrow stat block and fights until destroyed.
+
+At your discretion, a noisy fight might attract the attention of the guards patrolling area V1.
+
+Guards’ Patrol Routes. If the characters didn’t snatch Alda’s clutch during the gala, they can find a copy of the guards’ after-hours patrol routes on the desk under some other loose paperwork (see the “Curator Alda Arkin” section).
+
+V6: Records Room
+Filing cabinets stand in this records room.
+
+Alarm. An alarm spell has been cast on the door that connects this room to area V1.
+
+Records. This room contains records about past and current exhibits as well as the museum’s financial records. A character who searches this area also finds information about the placement of the building’s alarm spells (see “Investigating Security Measures” earlier in the adventure).
+
+V7: Break Room and Storage
+Boxes of display supplies are stacked into this room’s corners. Chairs surround a circular table in the middle.
+
+Alarm. An alarm spell has been cast on the door that connects this room to area V1.
+
+Pass Card Stash. Characters who take a minute to search the boxes find a small, partially open box in the southwest corner. Inside are three palm-sized pass cards, each stamped with the museum’s logo. A scrap of paper inside the box reads “spare alarm pass cards.” Each pass card allows its bearer to bypass the museum’s alarms, as described in the “Bypassing Alarms” section earlier in this adventure.
+
+Treasure. Tucked between supply boxes in the northwest corner is a vial containing a potion of vitality.
+
+V8: Creatures of the Past Exhibit
+Fossils of small prehistoric creatures are arranged here, some as fully reconstructed skeletons. The exhibit includes microraptors, ornithopods, dwarf elephants, and an ancestor of the cockatrice. Informational placards tell the stories of these creatures and their bones’ discovery.
+
+One guard patrols this area.
+
+Secret Door. Between two of the 15-foot-square exhibit rooms is a secret door that opens into a short hallway heading north. At the opposite end of the hallway, which holds cleaning supplies, is another secret door that doesn’t require an ability check to spot from inside the hall. This secret door opens to reveal area V12.
+
+V9: Underground Wonders Exhibit
+Glittering ore and gemstones are arranged in velvet-backed display cases. Informational placards explain local geologic history.
+
+Two guards patrol this exhibit and area V10, moving from one room to the other every 5 minutes.
+
+The gems on display here hold little value; precious stones are reserved for display in the Gemstone Wing (area V13).
+
+Fake Murkmire Stone. A character who examines the stones on display in the easternmost room realizes the central display cabinet includes a chunk of jade similar in size and weight to the Murkmire Stone. The display case is locked, but a character can take an action to try to open it using thieves’ tools, doing so with a successful DC 10 Dexterity check. Smashing the display case’s glass attracts the guards patrolling this area.
+
+Secret Door. Between this exhibit and area V10 is a secret door that opens into a short hallway heading north. At the opposite end of the hallway, which holds cleaning supplies, is another secret door that doesn’t require an ability check to spot from inside the hall. This secret door pulls open to reveal area V13.
+
+V10: Archaeology Display
+Picks, trowels, brushes, and other archaeological tools are on display here. Informational placards label them as tools famous local experts used to dig up the wonders found in the museum. Murals along the south wall depict famous digs.
+
+Two guards patrol both this exhibit and area V9, moving from one room to the other every 5 minutes.
+
+This exhibit tells the story of the infamous Rogerson dig, where most of the creatures in the Prehistoric Predators exhibit were found. The placards dismiss local legends that claim the excavators were subsequently cursed.
+
+Treasure. A character who studies the exhibit and succeeds on a DC 10 Wisdom (Perception) check realizes the items on display include two flawless weapons: a +1 dagger and a +1 handaxe. The weapons are inside a glass case with a jammed lock, so the characters must break or cut through the glass to access the weapons. Breaking the glass attracts the guards patrolling this area.
+
+V11: Unearthed Café
+This space holds a mix of cafeteria-style tables and lounge furniture. A counter in the northeast corner sits underneath a sign that reads, “Unearthed Café.”
+
+One guard patrols this area.
+
+Treasure. A small lockbox is stashed under the counter. As an action, a character can try to open the lockbox using thieves’ tools, doing so with a successful DC 14 Dexterity check. The lockbox contains 15 gp, 7 sp, and 24 cp.
+
+V12: Prehistoric Predators Exhibit
+The intact skeletons of several large prehistoric monsters are on display here, including the museum’s most famous display: the beautifully preserved body of an allosaurus, its leathery skin appearing supple to the touch. An informational placard next to the dinosaur explains it died in the Murkmire millennia ago and was naturally preserved. Display cases along the room’s walls hold fossils of other ancient local predators.
+
+Two guards patrol this area.
+
+The statue west of the stairs depicts a winged satyr. If a character comes within 5 feet of the statue, it springs to life. The statue uses the animated armor stat block and fights until destroyed.
+
+Alarms. An alarm spell has been cast in the hallway leading to the Unearthed Café (area V11). Another alarm spell has been cast on the door in the middle of the east wall (which leads to area V13).
+
+Allosaurus. The allosaurus looks like a preserved specimen, but the museum hired rock gnomes to transform it into a harmless animatronic display. A character who examines the display’s base notices a small hatch covering a panel of buttons. A character can use these controls to turn on the animatronic display, which alerts not only the guards in this area but also the guards in areas V11 and V13.
+
+As an action, a character can use tinker’s tools or thieves’ tools to try to overload the magic that powers the controls, doing so with a successful DC 10 Intelligence (Arcana) check. This causes the animatronic creature to break free from its display base and rampage for 10 minutes before becoming inert again. The creature stomps through the area, then heads down the grand staircase, causing mayhem in area V1. While it rampages, the creature uses the allosaurus stat block, with these changes:
+
+The animatronic allosaurus is a Construct.
+It is immune to poison and psychic damage, as well as the charmed, frightened, paralyzed, and poisoned conditions.
+Vent. The east wall has a 3-foot-high, 3-foot-wide, 5-foot-deep air vent leading to area V13. The vent is 10 feet above the floor. Reaching it requires a successful DC 10 Strength (Athletics) check. Safely returning to the floor doesn’t require an ability check.
+
+V13: Gemstone Wing
+Chairs surround several tables cluttered with crystal and silver tableware. Against the east wall, a light-green stone rests atop a marble pedestal.
+
+Two guards patrol this area.
+
+Staff members plan to remove the tables and restore the normal gemstone exhibits in the morning before the museum opens. For now, the contents of those exhibits are in the basement (area V16).
+
+Light-Green Stone. The light-green stone on the pedestal is the Murkmire Stone, which is described at the end of this adventure. As Dr. Dannell fears, the stone is indeed an eldritch creature’s egg. At 10:30 p.m., the effects described in “The Murkmire Stone” begin, and at midnight, the egg hatches. See “Museum Feeding Frenzy” to learn what happens when the egg hatches.
+
+Rigged Pedestal. A detect magic spell reveals an aura of transmutation magic around the pedestal, which is attached to the floor and can’t be moved. A character who examines the pedestal notices tiny glyphs carved into its base and can make a DC 12 Intelligence (Arcana) check. On a success, the character realizes that all doors leading to the room will lock if the stone is removed from the pedestal.
+
+If the Murkmire Stone is removed from the pedestal, arcane lock spells activate on all doors leading to the room (including secret doors), causing them to close and lock. As an action, a character can try to open a locked door using thieves’ tools, doing so with a successful DC 20 Dexterity check, or force open a locked door by succeeding on a DC 20 Strength (Athletics) check. The arcane lock spells don’t prevent the curator or the museum guards from opening the doors.
+
+Replacing the Murkmire Stone with a fake can prevent the trap from triggering. A suitable fake can be found in area V9. Swapping it for the real Murkmire Stone without activating the arcane lock spells requires a successful DC 10 Dexterity (Sleight of Hand) check.
+
+Vent. The west wall has a 3-foot-high, 3-foot-wide, 5-foot-deep air vent leading to area V12. The vent is 10 feet above the floor. Reaching it requires a successful DC 10 Strength (Athletics) check. Safely returning to the floor doesn’t require an ability check.
+
+Secret Door. The south wall contains a secret door that opens into a short hallway containing cleaning supplies. At the far end of the hallway is another secret door that doesn’t require an ability check to spot from inside the hall. This secret door pulls open to reveal the hallway between areas V9 and areaV10.
+
+V14: Access Hallway
+This hallway connects the Unearthed Café (area V11) to the Prehistoric Predators exhibit (area V12) and the privies (area V15).
+
+V15: Privies
+This area holds five stalls. A simple latch allows the door of each privy to be locked from the inside. East of the privies is a staircase to the attic (area V17).
+
+V16: Basement
+Boxes and crates are piled here in groups. Enormous warehouse doors take up much of the basement’s northern wall.
+
+Objects formerly on display or not yet prepped for display are stored here. The area is infrequently visited, and a mimic recently took up residence in the centermost pile of boxes. The mimic waits to attack until a character moves within 5 feet; it then fights until destroyed.
+
+Loading Docks. The warehouse doors open onto an underground ramp that leads to street level. A character who has observed the whole building from the outside can easily find where the ramp exits at ground level. The doors are locked, and their hinges are stiff. Unlocking them requires a successful DC 14 Dexterity check with thieves’ tools; after that, shoving the doors open requires a successful DC 15 Strength (Athletics) check. This is noisy and attracts the attention of one guard patrolling the grand entrance above (area V1).
+
+Secret Door. In the basement’s northwest corner, a secret door opens into a 50-foot-long tunnel that emerges in a copse of trees near the museum.
+
+Treasure. Most of the items in the boxes would be nearly impossible to sell, as they would quickly be identified as stolen museum property. However, the boxes in the southeastern corner contain the items from the Gemstone Wing that were stored to make room for the Murkmire Stone gala: gemstones and chunks of raw silver ore, all found locally. The 20 pounds of gems and ore are worth 150 gp total.
+
+V17: Attic
+A winding staircase leads up to this cramped space filled with haphazardly stacked boxes. Starlight pours into the space through a large skylight.
+
+Supplies for events—such as lecterns, linens, and tableware—are stored here.
+
+Skylight. The skylight overhead is locked. A character can use an action to try to unlock the skylight using thieves’ tools, doing so with a successful DC 14 Dexterity check. Lifting the skylight to open it then requires a successful DC 12 Strength (Athletics) check.
+
+Loose bricks are scattered on the roof near the skylight. A character could use a brick to prop the skylight open

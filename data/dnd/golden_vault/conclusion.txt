@@ -1,0 +1,36 @@
+Conclusion
+If the characters escape the museum with the Murkmire Stone, they can deliver it safely to Dr. Dannell. The anthropologist locks it in a box made of crystal, whereupon the stone becomes inert and its effects stop immediately. Dr. Dannell assures the characters that the egg will be safe in her care for the time being. The characters receive their rewards, and Dr. Dannell tries to regain her position at the university while making provisions to ensure the Murkmire Stone remains in its crystal box. At your discretion, Dr. Dannell might ask the characters to help (see “Reinstate Dr. Dannell” below).
+
+If the characters don’t bring the Murkmire Stone to Dr. Dannell by midnight, it hatches into a nascent eldritch horror. Additionally, Alda Arkin might be revealed as a syndicate head. These outcomes are discussed in the “Further Adventures” section.
+
+For the Golden Vault
+If the characters are working for the Golden Vault, they must deliver the Murkmire Stone to Dr. Dannell by midnight. Once they do, the organization rewards the characters with an uncommon magic item of their choice (subject to your approval) as payment. The item is delivered to the characters the next day.
+
+Further Adventures
+Once the heist ends, the adventure’s story might continue. Use the following hooks for a successful or an unsuccessful mission.
+
+Mission Is Successful
+If the characters bring the Murkmire Stone to Dr. Dannell before it hatches, use the following adventure hooks to continue their story.
+
+Another Stone. After the Murkmire Stone is neutralized, Dr. Dannell hears from a colleague that another expedition in the Murkmire has unearthed a similar object. This time, however, the egg is closer to hatching, and strange happenings are befalling the excavation crew. With Dr. Dannell still discredited, it’s up to the characters to venture into the dangerous Murkmire, locate the crew, and contain the egg. But when the characters arrive at the dig site, the egg has hatched—and now the characters must defeat the hatchling before it causes more harm. The hatchling uses the ankheg stat block, except its bite deals poison damage instead of acid damage.
+
+Investigate the Hatchling. A strange creature has appeared in the crocodile enclosure at the Varkenbluff Zoo. The creature hatched from an egg similar to the Murkmire Stone and is now nearly 8 feet long. The zoo’s baby crocodiles have disappeared, and animals near the crocodile enclosure have become violent. Headaches plague zookeepers who have tried to capture the creature. While Dr. Dannell tries to convince the zookeepers of the creature’s nature, it’s up to the characters to stop the hatchling. It’s growing bigger by the hour as more animals disappear or act erratically. The hatchling uses the ankheg stat block, except its bite deals poison damage instead of acid damage.
+
+Reinstate Dr. Dannell. Now that she knows her theories about the Murkmire Stone were correct, Dr. Dannell seeks to regain her position at Varkenbluff University. She has assembled proof that the Murkmire Stone is an eldritch creature’s egg. But the museum’s curator blocks her reinstatement bid—and then goes missing, casting further suspicion on Dr. Dannell. Dr. Dannell offers the characters a share of her future earnings for their help tracking down the curator and convincing her to reverse her vote against Dr. Dannell. The characters follow Alda’s trail through Varkenbluff’s high society and discover the curator is the head of an illegal syndicate fencing stolen objects. The characters must confront her and her minions to save Dr. Dannell’s reputation and prevent stolen historical objects from being sold illegally.
+
+Mission Is Unsuccessful
+If the characters don’t retrieve the Murkmire Stone in time, use the following adventure hooks to continue their story.
+
+A Stolen Stone. Shortly after the characters’ unsuccessful heist, Alda Arkin steals the stone herself. The secret leader of an illegal syndicate that fences stolen historical objects, the curator believes she can get a high price for this strange piece. Using an arcane ritual, the curator renders the egg unable to hatch, but its dire effects persist. When the egg’s eldritch energy transforms the curator into a Monstrosity, she holes up in her manor with the egg, unable to think straight. The characters must confront the warped creatures within Alda’s manor—including the curator—before the stone can cause more mayhem.
+
+Museum Feeding Frenzy. The Murkmire Stone hatches into an eight-foot-long, nascent eldritch horror, and the stone’s effects cease. At first, the museum’s staff assumes someone stole the stone and closes the building. But the hatchling terrorizes and eats the guards one by one. Curator Alda Arkin admits Dr. Dannell’s theory might be correct and hires the characters to stop the eldritch creature. The wily monster is now the size of a pony and uses the ankheg stat block, except its bite deals poison damage instead of acid damage. It has set traps using the slime it secretes while metabolizing its food, and the entire museum is its nightmarish habitat. The characters must stop this creature before it outgrows the museum.
+
+If the eldritch horror isn’t defeated within a few days, it rampages through the museum’s front doors, bolting toward Varkenbluff University. Now grown to enormous proportions, the juvenile eldritch horror uses the behir stat block but speaks no languages and has an Intelligence score of 18. It also has the following additional action option:
+
+Spellcasting. The eldritch horror casts one of the following spells, requiring no components and using Intelligence as the spellcasting ability (save DC 14):
+
+2/day each: blindness/deafness, blur
+
+1/day: project image
+
+The city needs heroes to track down the horror and incapacitate it before it causes even more carnage.

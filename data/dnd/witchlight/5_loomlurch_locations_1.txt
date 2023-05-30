@@ -1,0 +1,105 @@
+Loomlurch
+Loomlurch Locations
+The following descriptions are keyed to the map of Loomlurch.
+
+
+LOOMLURCH
+VIEW PLAYER VERSION
+L1. Root Bridges
+These two bridges have the same features. When the characters first approach one of them, read:
+
+A gnarled bridge formed by tangled tree roots spans a rocky, dried-up riverbed.
+
+The bridges sway and creak when crossed. To avoid making a racket, each creature traveling along a bridge must make a DC 12 Dexterity (Stealth) check. On a failed check, the creatures stationed in the goblin market (area L2) are alerted; they take no action immediately but can’t be surprised.
+
+L2. Goblin Market
+The characters can enter this area from the eastern root bridge or by traversing the adjoining woodland.
+
+Three stalls selling candy are situated in this clearing, lit by windows carved into the giant fallen tree to one side of it. Two goblins are working in each stall, and the whole enterprise is watched closely by a goblin with a toffee apple head who appears to be muttering quietly to himself.
+
+
+CHUCKLEHEAD
+This market sells goblin-made candies of all sorts. Six goblins (lawful neutral) work here, two per stall, under the watchful gaze of their goblin boss, Chucklehead (neutral), whose head has been reshaped by fey magic to look like a toffee apple. The stallholders greet patrons warmly and invite them to sample and buy their delicious wares. Meanwhile, Chucklehead watches out for thieves.
+
+Chucklehead. The goblin boss can escort characters to the parlor (area L3) if they request a meeting with Granny Nightshade. When left alone, he mutters to himself as though he’s having a constant but mild crisis of conscience. If the characters ask Chucklehead whom he’s muttering to, he says that a maggot crawled into his head and is slowly eating it from the inside out. He’s not sad about this turn of events because it has changed his outlook and disposition, making him kinder and more sympathetic to the plight of others. He claims he can speak to the maggot and it speaks to him, even though it actually doesn’t. The maggot in the goblin’s head will kill him in 30 days unless he receives the benefit of magic that cures a disease. That magic slays the maggot but also reverts Chucklehead’s alignment to neutral evil.
+
+Chucklehead is protective of Mishka (see area L13) and wants to help her get away from Loomlurch, but he’s too scared of Granny Nightshade to free Mishka from the hag’s clutches. Appendix D has additional roleplaying notes for Chucklehead.
+
+Merchant Stalls. The goods sold here are delicious but made with disgusting ingredients. Examples include beetles encased in hard candy, lollipops made from compacted ants, and jellied worms. The stallholders charge one trinket per treat. Roll a d8 and consult the Candy Treats table to determine what magical effect befalls a creature that eats one of these treats. Each effect lasts for 1 hour.
+
+If a creature eats multiple treats and gets the same effect twice, extend the duration of the effect by 1 hour. A creature can have up to three different magical effects on it at any given time. If a creature eats a candy treat while it is already affected by three others, don’t roll on the table. Instead, the creature must make a DC 11 Constitution saving throw; on a failed save, the creature is poisoned for 8 hours.
+
+Candy Treats
+d8	Effect
+1	Your footfalls emit musical notes that can be heard out to a range of 30 feet.
+2	Eating the candy causes you to foam at the mouth, making it difficult (but not impossible) for you to speak.
+3	Your fingers leave indelible stains on anything you touch.
+4	Your head swells to twice its normal size.
+5	You shrink, as though affected by the reduce effect of an enlarge/reduce spell.
+6	Fireflies are drawn to you and form a persistent cloud around you, shedding bright light in a 5-foot radius and dim light for an additional 5 feet.
+7	You grow, as though affected by the enlarge effect of an enlarge/reduce spell.
+8	You are targeted by a polymorph spell and automatically fail the saving throw against it. The new form is a butterfly (use the bat stat block, but omit its darkvision, Echolocation trait, and Bite attack).
+L3. Parlor
+The door to area L4 is closed but not locked.
+
+This chamber is nestled between walls of twisted roots, through gaps in which you can see the eerily beautiful woodland surrounding you. A closed wooden door stands opposite the root bridge that leads into this room, in the center of which are four armchairs encircling a small table laid out for a tea service. A painted wooden box three feet on a side rests in a corner. A crank protrudes from one side of it, causing it to resemble an oversized jack-in-the-box.
+
+If Bavlorna Blightstraw retreated to Loomlurch after fleeing her home in chapter 2, her bobbing lily pad (see appendix A) lies on the floor next to the box, vaguely resembling a leaf-shaped carpet. Bavlorna herself can be found in area L14.
+
+Three of the armchairs are trained mimics in disguise. They are magically compelled to remain in this room and adhere to creatures only when Granny Nightshade orders them to do so. The mimics are trained in nonlethal combat; characters reduced to 0 hit points by the mimics are stable rather than dying, giving the hag a chance to decide what to do with the unconscious victims.
+
+Dragon-in-the-Box. The wooden box with the crank is one of the boxes where Cradlefall might be found (see “Skabatha’s Minions” earlier in the chapter).
+
+Tea with Granny Nightshade. Characters who arrange a meeting with Granny Nightshade through Chucklehead (area L2) or Pincushion (area L9) are left here for a while before the hag shows up. When Granny Nightshade arrives, read:
+
+The door creaks open, and a little old woman totters forward. She wears a grimy, old-fashioned shawl, and her skin looks like gnarled bark. A large iron key extends from her back, ticking rhythmically as it rotates.
+
+“Sit down, children,” she says in a voice reminiscent of crunching leaves. “Let’s have some tea.”
+
+Skabatha Nightshade (see appendix B) obeys the rule of hospitality (see “Rules of Conduct” in chapter 2) and presents herself as a kind host who is keen to know why the characters have paid her a visit. See “Bargaining with Skabatha” for guidance on running this conversation, during which she pours tea into filthy cups and stirs the liquid with a chicken bone, insisting that the characters drink up. On occasion, she reaches around with one of her arms and winds up her key. If the characters belittle or threaten her, Granny Nightshade orders her mimics to adhere to her guests and beat them unconscious while she watches with amusement.
+
+Treasure. Characters who scour the parlor for treasure find the following items:
+
+A spell scroll of speak with plants tucked in a side table drawer
+A set of four silver teaspoons engraved with pained facial expressions (5 gp per spoon)
+A bronze candlestick shaped like a bird’s leg (10 gp)
+L4. Workshop
+The doors to areas L3 and areaL7 are closed but not locked. The door to area L5 is locked, and Granny Nightshade has the only key (see “Skabatha’s Ring of Keys” earlier in the chapter).
+
+Flickering lanterns illuminate a cluttered workshop filled with soft, ambient music produced by bells and chimes. Parts of toys are heaped on the tables—leering doll’s heads, half-built rocking horses, unpainted wooden balls, and the stuffed limbs of soft toys. A stove at the back of the room holds a saucepan of smelting metal. Three doors exit the workshop, and two storefront windows overlook the market outside.
+
+The ambient music is a permanent magical effect that can’t be heard outside the workshop. If the characters enter quietly, add:
+
+Three young children are gathered around a wooden worktable. The eldest, a drow boy, prances on the tabletop with a bar of soap in one hand, while a halfling girl and a human girl giggle at his audacity.
+
+Granny Nightshade makes captured children craft nightmarish toys in this workshop. Three children are present when the characters arrive: Naal (an 11-year-old male drow), Sung (a 9-year-old female human), and Philomena (an 8-year-old female lightfoot halfling). They’ve been the hag’s prisoners for longer than any of them can remember and are wary of grown-ups. If the characters barge into the room, Philomena panics and runs to get help from the tin soldiers in area L7. All three children want to escape the hag’s clutches, although Philomena weeps if she’s forced to leave without her beloved piglet, Oink, who is kept in the pigpen (area L5).
+
+Naal recently stole the kitchen key from Pincushion (see area L9) and took an impression of it using a bar of soap before fastening the key back onto Pincushion’s belt. When the characters arrive, Naal is recounting his heroic tale to the two girls. He wants to create a copy of the key and then sneak into the kitchen to steal milk. Naal gives characters the bar of soap if they give him something in return, such as fresh milk or some other tasty treat. (“It’s the rule of recip—… recip—… give-and-get,” he says.)
+
+Boggles. Three boggles (see appendix C) lurk in the shadows, intending to play pranks on the visitors. Characters who spend a minute or so inside the workshop notice unsettling changes; dolls’ heads turn to face them when they’re not looking, balls bounce suddenly out of dark corners, or molten tin from the smelting pot splashes on the floor nearby. A character can use an action to try to detect hidden creatures, spotting all three boggles with a successful DC 16 Wisdom (Perception) check. If they are spotted, the boggles flee to the box in area L7 and turn its crank, hoping Cradlefall will pop out of the box and defend them. The boggles avoid combat themselves.
+
+If Squirt is with the party, it encourages the characters to acquire as much boggle oil as they can. Only slippery boggle oil will do (see the “Boggle Oil” sidebar). Captured boggles provide the oil freely, hoping to earn their freedom.
+
+Treasure. Characters who ransack the workshop uncover the following valuables:
+
+A jar of iridescent glass eyes (10 gp)
+A silver hammer and chisel in a green leather tool belt (15 gp for the set)
+Iron metalworking tongs shaped like the jaws of a snapping dragon (15 gp)
+BOGGLE OIL
+
+A boggle excretes oil from its pores and can make the oil slippery or sticky. Squirt the oilcan needs slippery boggle oil to use its Boggle Oil action, and it can hold up to three applications of the oil. Boggle oil normally evaporates after 1 hour, but the oil is preserved indefinitely inside Squirt.
+
+When a boggle creates a puddle of slippery oil on the ground, a character can scoop up 1d3 applications of the oil from the puddle (a process that takes 1 minute) before the oil disappears.
+
+A friendly boggle will create three applications of boggle oil in exchange for a gift of equal perceived value, such as a trinket. An indifferent boggle expects a better gift for the same amount of oil, such as a bag of candy, a gemstone, or a magnifying glass. An unfriendly or hostile boggle won’t cooperate unless it is captured and forced to create oil to avoid punishment.
+
+Window Displays. The following creepy toys are displayed in the workshop windows:
+
+A set of nesting dolls in which each doll looks more frightened than the next larger one
+A stuffed lion with needles for teeth and real bloodstains around its jaws
+A toy windmill with a crank on one side that turns the vanes and the millstone
+A set of playing cards depicting weeping children
+A wind-up drunkard doll that totters a few paces and then falls over
+Four finger puppets depicting an arguing family
+A 1-foot-tall wooden guillotine
+A tiny wooden box containing eight sticks of black chalk
